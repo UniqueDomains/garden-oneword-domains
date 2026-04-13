@@ -69,10 +69,10 @@ print(df.head())
 | property.garden  | premium   | $260      | $31.20        | 90             | 99     | 8      | namecheap       |
 | seventeen.garden | available | $39.98    | —             | 84             | 62     | 9      | namecheap       |
 | temple.garden    | resell    | —         | —             | 66             | 82     | 6      | Dynadot Inc     |
-| free.garden      | premium   | $500      | $45.99        | 88             | 59     | 4      | name.com        |
+| ace.garden       | premium   | $500      | $45.99        | 88             | 57     | 3      | name.com        |
 | athletics.garden | available | $39.98    | —             | 69             | 52     | 9      | namecheap       |
 | identity.garden  | resell    | —         | —             | 80             | 65     | 8      | Spaceship, Inc. |
-| ace.garden       | premium   | $500      | $45.99        | 88             | 57     | 3      | name.com        |
+| free.garden      | premium   | $500      | $45.99        | 88             | 57     | 4      | name.com        |
 | alpha.garden     | available | $39.98    | —             | 90             | 51     | 5      | namecheap       |
 | web.garden       | resell    | —         | —             | 72             | 61     | 3      | Sav.com LLC     |
 | live.garden      | premium   | $1,000    | $45.99        | 108            | 56     | 4      | name.com        |

@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .garden one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,154 domains · **Median ask:** $78.44 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-13  
+**Last updated:** 2026-05-15  
 **Canonical page:** `https://unique.domains/domains/tld/garden`  
 **Best for:** founders, investors, studios
 
@@ -81,7 +81,7 @@ print(df.head())
 | letsgo.garden        | resell    | —         | —             | 57             | 31     | 7      | GoDaddy.com, LLC |
 | justin.garden        | premium   | $50       | —             | 58             | 38     | 7      | name.com         |
 | heroes.garden        | available | $43.98    | —             | 68             | 29     | 6      | namecheap        |
-| gogreen.garden       | resell    | —         | —             | 56             | 28     | 8      | Spaceship, Inc.  |
+| gogreen.garden       | resell    | —         | —             | 56             | 19     | 8      | Spaceship, Inc.  |
 | aliens.garden        | premium   | $500      | —             | 56             | 35     | 6      | name.com         |
 | Keith.garden         | available | $43.98    | —             | 66             | 25     | 5      | namecheap        |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GARDEN One-Word Domains*. Version 2026-05-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GARDEN One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

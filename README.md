@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .garden one-word domains fr
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,154 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,154 domains · **Median ask:** $78.44 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,154 domains · **Median ask:** $76.17 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/garden`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/garden`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .GARDEN one-word domai
 
 ### Files
 
-- `garden.csv` — public CSV extract (1,000 rows)
-- `garden.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `garden.csv`, public CSV extract (1,000 rows)
+- `garden.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| geton.garden         | available | $43.98    | —             | 82             | 10     | 6      | namecheap        |
-| getup.garden         | available | $43.98    | —             | 82             | 15     | 6      | namecheap        |
-| playon.garden        | available | $43.98    | —             | 80             | 14     | 7      | namecheap        |
-| QandA.garden         | available | $43.98    | —             | 80             | 10     | 7      | namecheap        |
-| hangon.garden        | available | $43.98    | —             | 82             | 6      | 7      | namecheap        |
-| makeit.garden        | available | $43.98    | —             | 82             | 21     | 7      | namecheap        |
-| dogsick.garden       | available | $43.98    | —             | 90             | 1      | 7      | namecheap        |
-| Snickers.garden      | available | $43.98    | —             | 80             | 10     | 8      | namecheap        |
-| FabFour.garden       | available | $2.19     | $32.49        | 82             | 3      | 8      | namesilo         |
-| headout.garden       | available | $43.98    | —             | 82             | 6      | 8      | namecheap        |
-| keepthechange.garden | available | $43.98    | —             | 46             | 59     | 15     | namecheap        |
-| vertical.garden      | resell    | —         | —             | 70             | 33     | 8      | Name.com, Inc.   |
-| robots.garden        | premium   | $500      | —             | 62             | 47     | 6      | name.com         |
-| neuroscience.garden  | available | $43.98    | —             | 80             | 37     | 12     | namecheap        |
-| letsgo.garden        | resell    | —         | —             | 57             | 31     | 7      | GoDaddy.com, LLC |
-| justin.garden        | premium   | $50       | —             | 58             | 38     | 7      | name.com         |
-| heroes.garden        | available | $43.98    | —             | 68             | 29     | 6      | namecheap        |
-| gogreen.garden       | resell    | —         | —             | 56             | 19     | 8      | Spaceship, Inc.  |
-| aliens.garden        | premium   | $500      | —             | 56             | 35     | 6      | name.com         |
-| Keith.garden         | available | $43.98    | —             | 66             | 25     | 5      | namecheap        |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| half.garden    | available | $39.98    | —             | high           | low    | 4      | namecheap        |
+| correct.garden | available | $39.98    | —             | high           | low    | 7      | namecheap        |
+| nothing.garden | available | $39.98    | —             | high           | low    | 7      | namecheap        |
+| bang.garden    | available | $43.98    | —             | high           | low    | 4      | namecheap        |
+| lcd.garden     | available | $1.99     | —             | high           | low    | 3      | name.com         |
+| net.garden     | resell    | —         | —             | high           | medium | 3      | Dynadot Inc      |
+| apt.garden     | premium   | $500      | —             | high           | low    | 3      | name.com         |
+| spf.garden     | available | $1.99     | —             | high           | low    | 3      | name.com         |
+| tea.garden     | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
+| ash.garden     | premium   | $500      | —             | medium         | low    | 3      | name.com         |
+| away.garden    | available | $39.98    | —             | high           | low    | 4      | namecheap        |
+| code.garden    | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.  |
+| bow.garden     | premium   | $500      | —             | high           | low    | 3      | name.com         |
+| lane.garden    | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc.  |
+| boy.garden     | premium   | $500      | —             | medium         | low    | 3      | name.com         |
+| bore.garden    | available | $39.98    | —             | high           | low    | 4      | namecheap        |
+| link.garden    | resell    | —         | —             | medium         | medium | 4      | Spaceship, Inc.  |
+| due.garden     | premium   | $500      | —             | high           | low    | 3      | name.com         |
+| brag.garden    | available | $39.98    | —             | high           | low    | 4      | namecheap        |
+| word.garden    | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are all one-word names in the .garden extension, which makes the set specific and easy to assess. The strongest candidates read cleanly as a full phrase with the extension, feel memorable at a glance, and avoid awkward joins between the word and .garden. In this selection, examples such as edamame.garden or dogsit.garden are concrete, while names like getup.garden or forces.garden are broader and may depend more on positioning. With a median ask of 78.44, price is often accessible, so the main decision is whether the word is distinctive, easy to say, and credible enough to carry a brand or resale thesis in a niche extension.
+This list covers one-word .garden domain names — short, dictionary-style names built for garden, plant, landscaping, and outdoor lifestyle brands. With 12,154 available domains and a median asking price near $76, the set spans everyday words like popup, edamame, half, and christmas paired with the .garden extension. Founders can use these names to launch a clear, ownable brand fast, while investors can scan pricing patterns across a large, low-cost pool of one-word inventory.
 
-- Prefer words that read naturally with .garden
-- Check whether the word is clear, memorable, and easy to say
-- Use price discipline when several names feel equally strong
-- Be careful with terms that may raise trademark concerns
+- 12,154 available one-word .garden domains, updated daily
+- Median ask near $76 across this selection
+- One-word names only — short, clear, and brandable
+- Compare price and renewal before you commit
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GARDEN One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GARDEN One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .garden one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 16,928 domains · **Median ask:** $49.34 · **High-demand under $2,500:** 10
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/garden`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| clv.garden   | available | $1.98     | $43.98        | low            | low    | 3      | namecheap       |
-| net.garden   | resell    | —         | —             | high           | medium | 3      | Dynadot Inc     |
-| apt.garden   | premium   | $500      | —             | high           | low    | 3      | name.com        |
-| clx.garden   | available | $1.98     | $43.98        | low            | low    | 3      | namecheap       |
-| code.garden  | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc. |
-| ash.garden   | premium   | $500      | —             | medium         | low    | 3      | name.com        |
-| cxl.garden   | available | $1.98     | $43.98        | low            | low    | 3      | namecheap       |
-| lane.garden  | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc. |
-| bow.garden   | premium   | $500      | —             | high           | low    | 3      | name.com        |
-| ilx.garden   | available | $1.98     | $43.98        | low            | low    | 3      | namecheap       |
-| link.garden  | resell    | —         | —             | medium         | medium | 4      | Spaceship, Inc. |
-| boy.garden   | premium   | $500      | —             | medium         | low    | 3      | name.com        |
-| ixl.garden   | available | $1.98     | $43.98        | low            | low    | 3      | namecheap       |
-| word.garden  | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc. |
-| due.garden   | premium   | $500      | —             | high           | low    | 3      | name.com        |
-| lcd.garden   | available | $1.99     | —             | high           | low    | 3      | name.com        |
-| micro.garden | resell    | —         | —             | medium         | medium | 5      | Porkbun         |
-| end.garden   | premium   | $500      | —             | high           | low    | 3      | name.com        |
-| lii.garden   | available | $1.98     | $43.98        | low            | low    | 3      | namecheap       |
-| sport.garden | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc. |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| half.garden    | available | $39.98    | —             | high           | low    | 4      | namecheap       |
+| correct.garden | available | $39.98    | —             | high           | low    | 7      | namecheap       |
+| nothing.garden | available | $39.98    | —             | high           | low    | 7      | namecheap       |
+| bang.garden    | available | $43.98    | —             | high           | low    | 4      | namecheap       |
+| away.garden    | available | $39.98    | —             | high           | low    | 4      | namecheap       |
+| what.garden    | premium   | $96       | $29.50        | high           | low    | 4      | namesilo        |
+| clv.garden     | available | $1.98     | $43.98        | low            | low    | 3      | namecheap       |
+| net.garden     | resell    | —         | —             | high           | medium | 3      | Dynadot Inc     |
+| apt.garden     | premium   | $500      | —             | high           | low    | 3      | name.com        |
+| clx.garden     | available | $1.98     | $43.98        | low            | low    | 3      | namecheap       |
+| code.garden    | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc. |
+| ash.garden     | premium   | $500      | —             | medium         | low    | 3      | name.com        |
+| cxl.garden     | available | $1.98     | $43.98        | low            | low    | 3      | namecheap       |
+| lane.garden    | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc. |
+| bow.garden     | premium   | $500      | —             | high           | low    | 3      | name.com        |
+| ilx.garden     | available | $1.98     | $43.98        | low            | low    | 3      | namecheap       |
+| link.garden    | resell    | —         | —             | medium         | medium | 4      | Spaceship, Inc. |
+| boy.garden     | premium   | $500      | —             | medium         | low    | 3      | name.com        |
+| ixl.garden     | available | $1.98     | $43.98        | low            | low    | 3      | namecheap       |
+| word.garden    | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GARDEN One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GARDEN One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

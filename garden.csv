@@ -5,7 +5,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 7f7821a2-9f54-43f1-8220-3f9421edfc43,lipitor.garden,available,2.19,32.49,high,low,7,namesilo,,,21/09/2026 00:35
 6ab32294-05a8-4744-bb00-7ce587bc7414,band.garden,available,39.98,,high,low,4,namecheap,,,
 a96da822-3263-40ce-a9c8-fc758349fbc6,astringent.garden,available,1.98,43.98,medium,low,10,namecheap,,,
-cdecd17d-9404-4211-95e1-ac7ff1e53905,evanescent.garden,available,1.98,43.98,high,low,10,namecheap,,,17/08/2026 14:37
+cdecd17d-9404-4211-95e1-ac7ff1e53905,evanescent.garden,available,1.98,43.98,medium,low,10,namecheap,,,17/08/2026 14:37
 e558b44e-505b-4df5-9452-002ddeda8388,young.garden,premium,47.2,29.5,high,low,5,namesilo,,,
 6b03c4dc-118d-40df-8a3d-26f09858d878,varicose.garden,available,1.98,43.98,medium,low,8,namecheap,,,13/09/2026 01:20
 e40fd567-d7e7-42da-b99a-e1269464dda6,allotropic.garden,available,1.98,43.98,medium,low,10,namecheap,,,
@@ -15,9 +15,9 @@ bd527f1b-8316-4985-a7b4-f100b7c7efec,emollient.garden,available,1.98,43.98,mediu
 ab19433e-8386-4dca-8f7a-b5d910aced29,cutthroat.garden,available,1.98,43.98,high,medium,9,namecheap,,,10/08/2026 23:02
 786c0b63-a406-48ea-870c-32acd99e601c,highborn.garden,available,1.98,43.98,medium,low,8,namecheap,,,13/08/2026 01:48
 5da99efa-c08c-4ac6-9311-b9e57ec5023f,annon.garden,available,2.19,32.49,medium,low,5,namesilo,,,19/09/2026 10:29
-f263aea6-b41f-4f44-afe4-441746164dfa,germinal.garden,available,1.98,43.98,high,low,8,namecheap,,,18/08/2026 22:49
+f263aea6-b41f-4f44-afe4-441746164dfa,germinal.garden,available,1.98,43.98,medium,low,8,namecheap,,,18/08/2026 22:49
 c8f9da8c-d363-4853-9292-3681dc9dcfe5,sevener.garden,available,1.98,43.98,medium,low,7,namecheap,,,
-df9699be-f8f8-464b-982d-d5930fec5535,manic.garden,available,1.98,43.98,high,low,5,namecheap,,,18/08/2026 15:04
+df9699be-f8f8-464b-982d-d5930fec5535,manic.garden,available,1.98,43.98,medium,low,5,namecheap,,,18/08/2026 15:04
 e3d215c5-9987-40f6-a6ef-0bee577354c9,planate.garden,available,1.98,43.98,medium,low,7,namecheap,,,18/08/2026 06:53
 88b5e3b6-f700-4294-9de3-41d30037394c,aboard.garden,available,2.19,32.49,medium,low,6,namesilo,,,27/09/2026 02:14
 89d92028-c6ac-4650-a412-56ed9185d60f,terminally.garden,available,2.19,32.49,medium,low,10,namesilo,,,16/09/2026 08:25
@@ -31,6 +31,7 @@ e1057787-725a-438a-89bf-c230205fe216,susurrous.garden,available,1.98,43.98,mediu
 27efe696-3b78-43d5-962e-08bf31915a54,bittern.garden,available,2.19,32.49,medium,low,7,namesilo,,,23/09/2026 23:02
 fd7bbe23-479c-4d6b-9adb-ebd6576ba130,eyeless.garden,available,1.98,43.98,medium,low,7,namecheap,,,17/08/2026 20:02
 b64f4574-7707-4888-b010-49152e7d8a3a,crotch.garden,available,2.19,32.49,medium,low,6,namesilo,,,24/09/2026 19:42
+7fbf264d-717a-42e9-b2e4-8478dcf578b6,emperor.garden,available,1.24,26.08,high,low,7,spaceship,,,28/09/2026 01:49
 b626a3d9-2401-4524-8a4e-70c8a6aa7dd8,bilby.garden,available,2.19,32.49,medium,low,5,namesilo,,,23/09/2026 15:40
 82d737cb-b171-43d0-894a-d71381831964,liquified.garden,available,1.98,43.98,medium,low,9,namecheap,,,23/08/2026 22:47
 73c6ddcd-1ce0-4948-9f7c-75d3d65cdc4e,latino.garden,premium,96,29.5,high,low,6,namesilo,,,21/08/2026 09:46
@@ -52,7 +53,7 @@ dfb59e38-5977-4a78-830b-56c6677631f8,finalize.garden,available,1.99,,high,low,8,
 83a65f6a-9d29-4fb8-be54-93c96220006f,complement.garden,available,39.98,,high,low,10,namecheap,,,
 fd547a2f-06b2-43d5-a8ed-c13607faabb1,boxed.garden,available,1.98,43.98,high,low,5,namecheap,,,11/08/2026 00:02
 2b8aad1c-3263-4e29-af00-5b815cf5379b,feather.garden,premium,500,,high,low,7,name.com,,,
-14fcca38-9125-4280-be5e-0f3e987dba7e,curricular.garden,available,1.98,43.98,high,low,10,namecheap,,,13/08/2026 11:29
+14fcca38-9125-4280-be5e-0f3e987dba7e,curricular.garden,available,1.98,43.98,medium,low,10,namecheap,,,13/08/2026 11:29
 b02e717d-1b27-4eab-afb3-2ed8763a4ef4,needless.garden,available,1.98,43.98,medium,low,8,namecheap,,,03/09/2026 14:55
 7042d4ef-830e-474e-8d5a-5b90cd39242c,nonesuch.garden,available,1.98,43.98,medium,low,8,namecheap,,,03/09/2026 20:13
 c0b942c2-8f06-437b-84d8-1f106e8b3f5f,rump.garden,available,1.98,43.98,medium,low,4,namecheap,,,09/08/2026 11:28
@@ -69,22 +70,23 @@ bc9022a2-24c9-4958-a952-3d554488b91c,livingston.garden,available,2.19,32.49,high
 25bdfa8c-d9cf-4811-a8cd-4e51ad55b0ee,hopeful.garden,available,2.19,32.49,high,low,7,namesilo,,,22/09/2026 09:48
 720b9936-b04c-4674-97f5-9735cf227476,marketplace.garden,available,1.99,,high,medium,11,name.com,,,
 5f4d936f-4e3a-4fb4-991c-7d0286a1f326,conk.garden,available,1.98,43.98,medium,low,4,namecheap,,,17/08/2026 21:08
-c5a2db9e-2cff-4b5d-9785-ffe4ccbde948,undesirable.garden,available,1.99,,high,low,11,name.com,,,
+c5a2db9e-2cff-4b5d-9785-ffe4ccbde948,undesirable.garden,available,1.99,,medium,low,11,name.com,,,
 91852f86-f8de-4082-bedd-96c9f102acaf,minor.garden,available,1.98,43.98,high,low,5,namecheap,,,25/09/2026 20:28
 d0906c4f-50b8-4aad-b607-644be8bb61e7,expendable.garden,available,1.98,43.98,high,low,10,namecheap,,,17/08/2026 18:08
 bf60f1e1-0e0a-45a7-a205-7cad0bb1a554,massages.garden,available,2.19,32.49,medium,low,8,namesilo,,,20/09/2026 09:22
 214222e1-8322-4354-9332-94858012ac3b,veridical.garden,available,1.98,43.98,medium,low,9,namecheap,,,13/09/2026 02:24
-b010e06c-0611-4a2b-b3ad-c7ec2f27d635,birchbark.garden,available,1.98,43.98,high,low,9,namecheap,,,23/09/2026 19:23
+b010e06c-0611-4a2b-b3ad-c7ec2f27d635,birchbark.garden,available,1.98,43.98,medium,low,9,namecheap,,,23/09/2026 19:23
 a2936a1d-9af4-4c1b-991c-eee5db10a188,adder.garden,available,2.19,32.49,medium,low,5,namesilo,,,17/09/2026 06:46
 02a24acc-6fff-475d-a8df-7e9f5d426946,twaddle.garden,available,2.19,32.49,medium,low,7,namesilo,,,21/09/2026 23:55
 651f7b4c-1e67-4bd8-8b2f-3455efa86b85,bisexual.garden,available,1.98,43.98,high,low,8,namecheap,,,10/08/2026 06:14
 2a1a5596-0c77-497a-bde6-2e3fc37ffa08,crossing.garden,available,2.19,32.49,high,low,8,namesilo,,,27/09/2026 03:30
-32fb85e7-3218-4742-867e-68bc2ba7f13b,edged.garden,available,46.99,46.99,high,low,5,name.com,,,13/08/2026 13:14
+32fb85e7-3218-4742-867e-68bc2ba7f13b,edged.garden,available,46.99,46.99,medium,low,5,name.com,,,13/08/2026 13:14
 d487947f-46bc-4385-8ff9-2989bb4d969e,tofu.garden,premium,104,32.5,high,low,4,namecheap,,,22/09/2026 20:09
 b8df6c5c-fa94-406a-9c85-63fe017e070c,antoine.garden,available,1.98,43.98,high,low,7,namecheap,,,25/09/2026 14:52
 353a1bad-b138-4fb1-ac2d-a307ea94f29f,alkanet.garden,available,2.19,32.49,high,low,7,namesilo,,,18/09/2026 08:26
 38b98439-4698-41f7-8645-98b4d0615993,ballet.garden,premium,520,32.5,high,low,6,namecheap,,,21/09/2026 22:51
 b2e0f743-4819-4407-b551-035ebdb9415c,blend.garden,premium,854,29.5,high,low,5,namesilo,,,24/09/2026 05:37
+2b41aabd-7570-43ef-92f8-638afcd6b61b,monroe.garden,available,1.99,49.99,high,low,6,godaddy,,,28/09/2026 02:11
 860d61ad-6508-4557-a57e-0156b647a81c,henrietta.garden,available,2.19,32.49,high,low,9,namesilo,,,25/09/2026 17:42
 7142e724-47ff-49fc-984b-2c9149774c2b,offended.garden,available,1.98,43.98,medium,low,8,namecheap,,,04/09/2026 01:24
 f238c4aa-7366-45e9-aeb2-0f30ffcb3954,dowding.garden,available,1.98,43.98,medium,low,7,namecheap,,,14/08/2026 17:10
@@ -98,7 +100,7 @@ bb8f8a2e-696c-4f15-80e4-24df391adc89,walton.garden,available,2.19,32.49,high,low
 cbaadd19-2210-451f-b409-939b5a935e25,domestic.garden,premium,96,29.5,high,low,8,namesilo,,,19/09/2026 12:54
 0b735c0d-c503-4566-86f6-2bf73f7e14a7,cupid.garden,premium,96,29.5,high,low,5,namesilo,,,18/09/2026 22:35
 48386f8e-6b93-4b16-8619-9e7fbfd4fa52,snatch.garden,available,2.19,32.49,high,low,6,namesilo,,,19/09/2026 14:54
-7715dc88-2580-4489-ab0e-5dfd1f2f961b,size.garden,premium,96,29.5,high,low,4,namesilo,,,
+7715dc88-2580-4489-ab0e-5dfd1f2f961b,size.garden,premium,83,26.08,high,low,4,spaceship,,,27/09/2026 22:17
 c6e3c6cf-e934-4c23-836b-0646c4a46909,acetic.garden,available,1.98,43.98,medium,low,6,namecheap,,,
 2c658d80-e513-4e82-8e0c-0913a2624e4b,teasing.garden,available,1.99,46.99,high,low,7,name.com,,,22/09/2026 05:24
 85220a73-f5a5-4939-b66e-2996098a06a6,diminuendo.garden,available,1.98,43.98,medium,low,10,namecheap,,,13/08/2026 22:19
@@ -109,7 +111,7 @@ d67851a6-8e04-4185-9ea7-87d1dfa89881,bedbug.garden,available,2.19,32.49,medium,l
 bd7c5cf2-5a63-4e90-95f8-ec26ee63f9af,epidermal.garden,available,46.99,46.99,medium,low,9,name.com,,,13/08/2026 13:06
 21ea8fa1-6e2c-44ae-b8de-c727a1b5a639,mundane.garden,available,1.98,43.98,high,low,7,namecheap,,,17/08/2026 14:55
 5eb6b22f-dd66-4eb1-9667-d1ec677cbe97,eroded.garden,available,1.98,43.98,high,low,6,namecheap,,,17/08/2026 12:24
-21328933-abcf-4f54-b8e0-feec96dafa17,monogenic.garden,available,1.98,43.98,high,low,9,namecheap,,,25/08/2026 05:13
+21328933-abcf-4f54-b8e0-feec96dafa17,monogenic.garden,available,1.98,43.98,medium,low,9,namecheap,,,25/08/2026 05:13
 0b697580-2b72-4e27-8e33-dee1a5d92668,reptile.garden,available,1.98,43.98,high,low,7,namecheap,,,09/09/2026 14:41
 7759f1f3-7876-4ffd-b427-ec4a88496386,atheneum.garden,available,2.19,32.49,medium,low,8,namesilo,,,20/09/2026 20:41
 977904a0-09f6-4a96-b591-dbede29345a7,permission.garden,available,2.19,32.49,high,low,10,namesilo,,,25/09/2026 09:53
@@ -135,14 +137,14 @@ cd8fcd56-6c52-47e8-bbaf-4452992bd84a,sin.garden,premium,512,29.5,high,medium,3,n
 78913d15-9dd1-4370-ad3d-9bca06f45991,camisole.garden,available,2.19,32.49,high,low,8,namesilo,,,24/09/2026 11:52
 add7af39-4f3d-4ee4-bf08-600f37fab1f2,throat.garden,available,2.19,32.49,high,low,6,namesilo,,,26/09/2026 00:01
 38ff9930-230e-438c-bd81-3d9d541e449d,shameless.garden,available,1.98,43.98,medium,low,9,namecheap,,,10/09/2026 05:53
-ea250575-c2b8-48ec-954f-372b048c4b8e,rejection.garden,available,1.99,,high,low,9,name.com,,,
-9faf880b-15cb-4d47-9b33-65c859af8952,sakharov.garden,available,2.19,32.49,high,low,8,namesilo,,,19/09/2026 04:30
+ea250575-c2b8-48ec-954f-372b048c4b8e,rejection.garden,available,1.99,,medium,low,9,name.com,,,
+9faf880b-15cb-4d47-9b33-65c859af8952,sakharov.garden,available,2.19,32.49,medium,low,8,namesilo,,,19/09/2026 04:30
 7cc7c143-3757-4c6c-8673-10e4f441fb43,assurgent.garden,available,1.98,43.98,medium,low,9,namecheap,,,07/08/2026 08:26
 4f2317af-aeba-407e-9f7a-a01a81fcd34b,bergen.garden,available,2.19,32.49,high,low,6,namesilo,,,23/09/2026 09:19
 e9145e2e-11b6-4561-b902-4c6aea23cec2,bettor.garden,available,2.19,32.49,medium,low,6,namesilo,,,23/09/2026 11:49
 579344f5-46d1-4975-a318-d5f2d3a67fb8,arkansas.garden,premium,2660,29.5,high,low,8,namesilo,,,20/09/2026 06:13
 f1e741cf-d004-48f8-bef4-16ac062dc6e2,participants.garden,available,2.19,32.49,medium,low,12,namesilo,,,18/09/2026 04:57
-98704852-85f8-4ffa-911b-d31b5d76e7d1,surprising.garden,available,1.99,,high,low,10,name.com,,,
+98704852-85f8-4ffa-911b-d31b5d76e7d1,surprising.garden,available,1.98,43.98,high,low,10,namecheap,,,28/09/2026 02:05
 bd78209b-b72a-4700-9e06-38e6dfd1cdb8,muffle.garden,available,46.99,46.99,medium,low,6,name.com,,,13/08/2026 16:49
 24f6bf62-d2f8-4254-9175-7cb2691794dc,sinkable.garden,available,1.98,43.98,high,medium,8,namecheap,,,10/09/2026 08:30
 951f6585-c545-4cfd-b115-9cc94110a290,guffaw.garden,available,1.98,43.98,high,low,6,namecheap,,,23/09/2026 06:41
@@ -160,7 +162,7 @@ d378f9c4-c9bc-495c-b49b-8069d63f3097,aar.garden,premium,47.2,29.5,medium,low,3,n
 e207abc2-7950-4641-93d6-2c2580e29ddf,buccal.garden,available,1.98,43.98,medium,low,6,namecheap,,,11/08/2026 07:27
 d44dbc65-21ad-43f5-bac0-a23b1e57ada9,intense.garden,available,2.19,32.49,high,low,7,namesilo,,,25/09/2026 09:55
 81423bdd-1a95-4019-b943-8c6e8cd48d5d,grave.garden,available,1.98,43.98,high,low,5,namecheap,,,20/08/2026 18:38
-f0263957-eaf2-4f3b-886e-300d7db85605,mallard.garden,available,2.19,32.49,high,low,7,namesilo,,,19/09/2026 03:01
+f0263957-eaf2-4f3b-886e-300d7db85605,mallard.garden,available,2.19,32.49,medium,low,7,namesilo,,,19/09/2026 03:01
 0043678f-891d-4e2b-8e2e-c68e9d89c5b0,ingenious.garden,available,1.98,43.98,high,low,9,namecheap,,,22/08/2026 04:52
 2a6f66fd-555c-4bf9-93f1-c1378d4fd3db,lacerate.garden,available,1.98,43.98,medium,low,8,namecheap,,,22/08/2026 17:51
 dc5d8035-c8e1-472d-a153-3573cc3a6b2d,agassiz.garden,available,2.19,32.49,medium,low,7,namesilo,,,17/09/2026 16:23
@@ -175,7 +177,7 @@ a3db9d91-4dd0-4460-b972-79a5ec659d5c,preserved.garden,available,2.19,32.49,high,
 629d1bec-500f-4ac3-a25d-ecf3909b7ade,prentice.garden,available,2.19,32.49,medium,low,8,namesilo,,,19/09/2026 22:19
 f1b6319f-bb16-4dba-9a5e-0224add82568,destined.garden,available,2.19,32.49,high,low,8,namesilo,,,24/09/2026 06:55
 aeec9b44-18a1-4417-b559-2bd88a1890bc,cue.garden,premium,500,,high,low,3,name.com,,,
-7a6ce84e-95aa-4d10-a240-0201136f2f59,cloth.garden,premium,47.2,29.5,high,low,5,namesilo,,,
+7a6ce84e-95aa-4d10-a240-0201136f2f59,cloth.garden,premium,47.2,29.5,high,low,5,namesilo,,,28/09/2026 02:26
 12ec085f-94d7-4a16-a1ff-2e835cc66b4e,aspect.garden,available,39.98,,high,low,6,namecheap,,,
 dfa16280-6b99-4689-a4d1-597e3772bd08,homicide.garden,available,2.19,32.49,medium,low,8,namesilo,,,25/09/2026 07:26
 d6cf50d5-0682-41c0-bfe0-20536e9b0191,pensacola.garden,available,2.19,32.49,high,low,9,namesilo,,,25/09/2026 23:59
@@ -186,7 +188,7 @@ a9135720-0057-4d0b-8732-8e44b452611e,surfaces.garden,available,1.99,,medium,low,
 122797b8-34a1-40f4-851f-c7d6ecd5c178,ultrasonic.garden,available,1.98,43.98,high,low,10,namecheap,,,11/09/2026 22:51
 c37c870d-cc46-4784-baf2-7e9a4a40aa8c,herculean.garden,available,1.98,43.98,high,low,9,namecheap,,,21/08/2026 07:06
 970045eb-ca85-4dd0-823e-09e2910dc2df,answerer.garden,available,1.98,43.98,medium,low,8,namecheap,,,19/09/2026 12:14
-2cb8cf05-a968-444c-84b2-e597951bc754,gao.garden,available,1.98,43.98,high,low,3,namecheap,,,25/09/2026 06:16
+2cb8cf05-a968-444c-84b2-e597951bc754,gao.garden,available,1.98,43.98,medium,low,3,namecheap,,,25/09/2026 06:16
 53f37bea-f80a-4e8a-9504-fa04a3c9d20d,phantasma.garden,available,1.98,43.98,high,low,9,namecheap,,,08/09/2026 18:38
 7dfbafba-27e2-4b60-92db-4f92ac1064a5,kinky.garden,premium,854,29.5,high,low,5,namesilo,,,17/08/2026 22:20
 bd379a2d-a2d1-4368-b043-268b5badced9,leger.garden,available,1.98,43.98,medium,low,5,namecheap,,,16/09/2026 23:07
@@ -217,14 +219,15 @@ e9798c02-f119-4ed8-b0cd-28c657a9b526,cope.garden,available,1.98,43.98,high,low,4
 d3e1d95c-fa52-405e-9a95-2254982ae2d1,goofproof.garden,available,1.98,43.98,medium,low,9,namecheap,,,18/08/2026 10:41
 4f9387ba-30b7-4b49-a6f2-59e126da2d20,wapiti.garden,available,2.19,32.49,medium,low,6,namesilo,,,18/09/2026 19:45
 50147200-5308-4587-995f-f675f6537b9b,verbosely.garden,available,1.98,43.98,medium,low,9,namecheap,,,15/09/2026 12:43
-811c0024-e647-4217-bcc0-0557a819cb46,balance.garden,premium,500,,high,low,7,name.com,,,
+811c0024-e647-4217-bcc0-0557a819cb46,balance.garden,premium,500,,high,low,7,name.com,,,27/09/2026 12:05
+6ee941b6-79b3-4303-b17f-54c07f2c7662,horror.garden,available,1.24,26.08,high,low,6,spaceship,,,27/09/2026 14:08
 773f9a05-6740-46a7-ac47-d7ab9fe93c63,warming.garden,available,1.98,43.98,high,low,7,namecheap,,,11/08/2026 14:09
 cec2dd13-9151-4044-abe6-da021c814f72,jacks.garden,premium,100,,high,low,5,name.com,,,
 4073bba8-5808-4209-a897-76ac749ccd84,single.garden,premium,2660,29.5,high,low,6,namesilo,,,21/09/2026 10:43
 8866133d-29de-43b7-8841-b91f81e5750b,aeriform.garden,available,1.98,43.98,medium,low,8,namecheap,,,
 4a5aa3e3-ada0-4ac6-ac41-a9eb0fef8fbe,sibylline.garden,available,1.98,43.98,medium,low,9,namecheap,,,11/08/2026 12:20
 1e557a56-fe08-46ed-bcb5-e40cf870d41d,auric.garden,available,1.98,43.98,medium,low,5,namecheap,,,07/08/2026 17:36
-784b96f4-6c17-43ba-be28-bfdc70a55de6,roll.garden,available,1.99,,high,low,4,name.com,,,
+784b96f4-6c17-43ba-be28-bfdc70a55de6,roll.garden,available,2.19,32.49,high,low,4,namesilo,,,27/09/2026 15:56
 0581a787-fdf3-4b85-ad30-0ae1ed3ccf0e,grisly.garden,available,1.98,43.98,medium,low,6,namecheap,,,18/08/2026 23:15
 c7ac3883-5371-4d3d-a768-8355116609cc,coat.garden,available,39.98,,high,low,4,namecheap,,,
 9317ce9c-6fb4-44ae-9e20-38c7697a7b58,billings.garden,available,1.98,43.98,high,low,8,namecheap,,,23/09/2026 16:32
@@ -239,7 +242,7 @@ c2a247a2-989e-4c7c-87ed-58bb8761356c,sarcosomal.garden,available,1.98,43.98,high
 f215e968-8a6a-45ea-906f-e0e7b9c4cf1b,ambush.garden,available,1.98,43.98,high,low,6,namecheap,,,24/08/2026 12:29
 a8b2b73c-7990-44dc-9662-c19f09495848,brotherly.garden,available,1.98,43.98,high,low,9,namecheap,,,11/08/2026 06:18
 3cf33d6d-2122-49df-99a8-6fc1fa52d277,carl.garden,available,2.19,32.49,high,medium,4,namesilo,,,25/09/2026 11:30
-322f769d-77a0-427f-bbd1-354479ff5fc9,cubitus.garden,available,2.19,32.49,high,low,7,namesilo,,,20/09/2026 11:25
+322f769d-77a0-427f-bbd1-354479ff5fc9,cubitus.garden,available,2.19,32.49,medium,low,7,namesilo,,,20/09/2026 11:25
 2cbeaca2-2e27-4c0e-b8f5-8233b1cdb60d,conduit.garden,available,2.19,32.49,high,low,7,namesilo,,,24/09/2026 17:11
 79f425a7-40ee-489d-969f-5bce573f8f31,contingent.garden,available,2.19,32.49,high,low,10,namesilo,,,23/09/2026 22:07
 a21eb6c6-99c2-4dfb-b15f-1886cbe97213,inhuman.garden,available,1.98,43.98,medium,low,7,namecheap,,,12/08/2026 16:25
@@ -268,13 +271,13 @@ a598eeb0-ff93-43c7-822a-2e50ad438af7,masters.garden,premium,96,29.5,high,low,7,n
 274ca8c5-c671-4fe4-82ae-bc4a0b16dd5e,fuckster.garden,available,1.99,,medium,low,8,name.com,,,
 f03dfe9c-42e2-4c91-a993-731a89e2ba22,raf.garden,premium,47.2,29.5,high,low,3,namesilo,,,27/09/2026 05:07
 ba6f4854-d17f-42f7-b45c-ed6438a3b5c8,surge.garden,available,2.19,32.49,high,low,5,namesilo,,,23/09/2026 16:36
-db957baf-5dea-49b2-8bb9-1caf4074eceb,rounder.garden,available,1.98,43.98,high,low,7,namecheap,,,23/08/2026 00:51
+db957baf-5dea-49b2-8bb9-1caf4074eceb,rounder.garden,available,1.98,43.98,medium,low,7,namecheap,,,23/08/2026 00:51
 32e37fdd-eb73-4a56-8afe-145ae2a4ba49,alzheimers.garden,available,2.19,32.49,medium,low,10,namesilo,,,18/09/2026 15:29
 8afef4a8-8067-4e71-9d81-1b4f05ab2781,heartsick.garden,available,1.98,43.98,medium,low,9,namecheap,,,11/08/2026 05:30
 f9634089-cb03-4862-ae70-4a18dd9383e2,mister.garden,available,1.99,,high,low,6,name.com,,,
 afa4b5cb-a4a8-4e3b-8cf9-e0f5ba070e0a,teaser.garden,available,2.19,32.49,high,low,6,namesilo,,,19/09/2026 10:50
 71a4fd37-3fcd-4c3a-b3b8-49d7a7e8d0fc,drug.garden,premium,854,29.5,high,low,4,namesilo,,,25/09/2026 00:15
-d9aa771f-b22f-4e7c-ad9b-3a20da2c61a4,lustrous.garden,available,1.98,43.98,high,low,8,namecheap,,,11/08/2026 11:00
+d9aa771f-b22f-4e7c-ad9b-3a20da2c61a4,lustrous.garden,available,1.98,43.98,medium,low,8,namecheap,,,11/08/2026 11:00
 e0574bfd-f1c9-48af-b959-f79e8c3457f0,aphonic.garden,available,1.98,43.98,medium,low,7,namecheap,,,05/08/2026 23:17
 f42b9e19-edb1-46ce-a9f7-f10adada3514,success.garden,available,,,high,low,7,,,,
 a62a5fda-d50d-4784-8e0b-4d3f756ab391,artisan.garden,available,2.19,32.49,high,low,7,namesilo,,,20/09/2026 11:51
@@ -286,11 +289,12 @@ d0494b0b-6784-4792-9862-72be43d4c277,separated.garden,available,2.19,32.49,mediu
 d29ab8d2-b9d4-4a2c-b11e-49ab873e6b2f,nicki.garden,available,1.99,,high,low,5,name.com,,,
 5975e548-bb37-4249-a7fb-2fb7dd09876d,unshapen.garden,available,1.98,43.98,medium,low,8,namecheap,,,12/09/2026 19:33
 7dc0b14e-326a-41b5-9f32-1e1d8c7a9178,respect.garden,available,1.98,43.98,high,low,7,namecheap,,,24/09/2026 21:15
+d011aa83-fc92-492a-81e2-8e87fdcd8c75,zack.garden,available,1.98,43.98,high,low,4,namecheap,,,27/09/2026 18:11
 c870f157-3fd9-4cb2-bcde-f4cd70212d35,walkaway.garden,available,1.98,43.98,medium,low,8,namecheap,,,09/09/2026 19:32
 238ab66f-66df-49f4-90e0-db87d87c5e01,zillion.garden,available,1.98,43.98,high,low,7,namecheap,,,11/09/2026 19:50
 2fc3807c-fffe-45c3-973a-ddf028ddf755,upwardly.garden,available,1.98,43.98,medium,low,8,namecheap,,,12/09/2026 22:57
 dc8063ae-24b3-4b9c-98d1-d5a6a67cd944,heist.garden,available,2.19,32.49,medium,low,5,namesilo,,,20/09/2026 06:36
-389484f4-be90-499c-847b-1ddbd88516de,diminutive.garden,available,1.98,43.98,high,low,10,namecheap,,,08/08/2026 14:10
+389484f4-be90-499c-847b-1ddbd88516de,diminutive.garden,available,1.98,43.98,medium,low,10,namecheap,,,08/08/2026 14:10
 f8fe8e19-16fd-4121-86f8-dd6e9a3247b0,deceiver.garden,available,2.19,32.49,medium,low,8,namesilo,,,23/09/2026 02:29
 1b977d19-a808-4891-9f18-4ec6265bb70d,abbey.garden,premium,96,29.5,high,low,5,namesilo,,,16/09/2026 14:25
 ac5674fd-8253-4563-93e7-54d9106b60d1,coefficient.garden,available,1.99,,high,low,11,name.com,,,
@@ -308,7 +312,7 @@ fe9646f9-7ea0-40f8-a243-e691e227c7b2,scalable.garden,available,1.98,43.98,high,l
 724fd6b0-5906-4439-b964-c0f5418be031,totemic.garden,available,1.98,43.98,medium,low,7,namecheap,,,11/09/2026 18:10
 40a0a611-059d-46c4-b825-4a0515af5257,monition.garden,available,2.19,32.49,medium,low,8,namesilo,,,17/09/2026 09:04
 ef73dae9-c62c-4fb0-8b74-2b27294ba522,strips.garden,available,2.19,32.49,medium,low,6,namesilo,,,20/09/2026 02:09
-ef5abdcf-3037-446e-81a7-0836d2d97d73,evenly.garden,available,1.98,43.98,high,low,6,namecheap,,,14/09/2026 16:30
+ef5abdcf-3037-446e-81a7-0836d2d97d73,evenly.garden,available,1.98,43.98,medium,low,6,namecheap,,,14/09/2026 16:30
 8a2b4470-b346-46ea-bc84-83b38157c2f2,bawler.garden,available,2.19,32.49,medium,low,6,namesilo,,,22/09/2026 16:58
 8761beac-aadf-4ed5-ba64-0ba174ee8852,loses.garden,available,2.19,32.49,medium,low,5,namesilo,,,27/09/2026 11:07
 31592f3d-6714-418b-b370-9c205ae190fc,amok.garden,available,1.98,43.98,high,low,4,namecheap,,,
@@ -358,14 +362,15 @@ d107efc9-a95e-44b7-91fb-b48266b3fb91,armed.garden,available,2.19,32.49,high,low,
 9e063ae8-0dca-4aac-ba12-b0921ab073c6,additions.garden,available,2.19,32.49,medium,low,9,namesilo,,,18/09/2026 16:32
 609e06a2-90cb-45e0-a37e-eb2adaa744c6,ire.garden,premium,47.2,29.5,medium,low,3,namesilo,,,19/09/2026 06:05
 0fa7e62b-e5c3-4e0c-a99d-539299b1a6fd,conference.garden,available,39.98,,high,low,10,namecheap,,,
-32664cba-a1d8-4184-994a-61e9b684503f,crooner.garden,available,1.98,43.98,high,low,7,namecheap,,,21/09/2026 22:42
+bdca406e-7a42-4131-aa6e-974902be89a7,navarre.garden,available,2.19,32.49,medium,low,7,namesilo,,,27/09/2026 19:38
+32664cba-a1d8-4184-994a-61e9b684503f,crooner.garden,available,1.98,43.98,medium,low,7,namecheap,,,21/09/2026 22:42
 337b243a-f95c-48fe-b0ef-e2435409b37c,kendall.garden,premium,47.2,29.5,high,low,7,namesilo,,,25/09/2026 05:14
 b4e652e6-5153-478d-bd76-0340ff2b5530,niner.garden,available,,,medium,low,5,,,,
 296933eb-8a39-46d6-9984-be2d8f3e4bde,ingrown.garden,available,1.98,43.98,medium,low,7,namecheap,,,22/08/2026 04:56
 68ee6fd6-a766-448a-a439-d5ce67eff247,bane.garden,available,1.98,43.98,medium,low,4,namecheap,,,22/09/2026 01:39
 841abfb2-06b3-4a5c-8eb6-c15877fdb438,fittingly.garden,available,1.98,43.98,medium,low,9,namecheap,,,13/09/2026 20:32
-58174a30-03ef-4305-87cc-e26038b02dda,grin.garden,available,1.99,,high,low,4,name.com,,,
-f944e8ed-ab0e-489b-a8bb-ae507602e599,calciferol.garden,available,46.99,46.99,high,low,10,name.com,,,13/08/2026 15:07
+58174a30-03ef-4305-87cc-e26038b02dda,grin.garden,available,25.2,25.2,high,low,4,cloudflare,,,27/09/2026 23:08
+f944e8ed-ab0e-489b-a8bb-ae507602e599,calciferol.garden,available,46.99,46.99,medium,low,10,name.com,,,13/08/2026 15:07
 13fae34b-545f-44e8-9552-43858575359c,folder.garden,available,1.99,,high,low,6,name.com,,,
 84545d7a-8f86-4033-b33e-20eabbf7d22c,sparkling.garden,available,1.98,43.98,high,low,9,namecheap,,,15/08/2026 14:45
 14629b99-bc78-4dff-bd91-19243126ff14,aeration.garden,available,2.19,32.49,high,low,8,namesilo,,,17/09/2026 12:46
@@ -402,11 +407,11 @@ af14ad53-64a5-4c64-9aa3-6431a4b2ecd7,doric.garden,available,1.98,43.98,high,low,
 5bf5e34c-d9a1-4651-a4ea-2262c4fed55a,involves.garden,available,2.19,32.49,medium,low,8,namesilo,,,19/09/2026 23:56
 56f70835-e52d-4a12-b804-fe0e887af812,tectonic.garden,available,1.98,43.98,high,low,8,namecheap,,,06/08/2026 15:47
 115eaf8f-bd49-4fe9-8fde-962c49fd71df,hanoi.garden,premium,854,29.5,high,low,5,namesilo,,,
-1504a1d8-86f1-48dc-8d70-1049980aa610,roiled.garden,available,1.98,43.98,high,low,6,namecheap,,,
+1504a1d8-86f1-48dc-8d70-1049980aa610,roiled.garden,available,1.98,43.98,medium,low,6,namecheap,,,
 304e3329-e6cc-4cb6-acfa-0a328e1451a9,anthony.garden,premium,47.2,29.5,high,low,7,namesilo,,,19/09/2026 13:34
 272b7b12-2b09-417a-be3f-0e9b32a002eb,glancing.garden,available,1.99,,high,low,8,name.com,,,
 987fe025-9a08-486e-8ac4-472b503c67e5,tortious.garden,available,1.98,43.98,medium,low,8,namecheap,,,11/09/2026 17:59
-6f911b38-3354-40f3-86a0-2878f1d81dd2,patiently.garden,available,1.98,43.98,high,low,9,namecheap,,,15/09/2026 19:20
+6f911b38-3354-40f3-86a0-2878f1d81dd2,patiently.garden,available,1.98,43.98,medium,low,9,namecheap,,,15/09/2026 19:20
 64bf118c-dc9e-4c44-a506-3d3763400156,fatherly.garden,available,1.98,43.98,high,low,8,namecheap,,,17/08/2026 23:36
 17535ed9-5bf4-471a-a4d6-352c5813e979,tourist.garden,premium,96,29.5,high,low,7,namesilo,,,
 28bdc983-ab10-4f27-bae1-b064b35cabb7,composing.garden,available,2.19,32.49,high,low,9,namesilo,,,24/09/2026 16:54
@@ -417,12 +422,12 @@ dc1cefe3-b270-4438-9cff-07bff692f66c,ativan.garden,available,1.99,46.99,medium,l
 45f87910-b90f-49a9-a649-523fcbcf1b53,pulled.garden,available,1.99,,high,low,6,name.com,,,
 c4e12d8d-3f12-4e2b-85fa-c9557d50adfe,trousers.garden,available,1.99,,high,low,8,name.com,,,
 7fc839ce-84d7-443e-b207-838f0e5f1c25,midland.garden,available,1.98,43.98,high,low,7,namecheap,,,24/08/2026 22:36
-343df7a0-435a-4208-ab29-eb4a283f5cf4,solvable.garden,available,1.99,,high,low,8,name.com,,,
+343df7a0-435a-4208-ab29-eb4a283f5cf4,solvable.garden,available,2.49,26.97,high,low,8,dynadot,,,27/09/2026 12:17
 8be3a1e6-9379-4700-ad1c-0c98a6f94dbd,exempt.garden,available,1.98,43.98,high,low,6,namecheap,,,17/08/2026 17:02
 fe8524c5-f36c-4d46-ba63-e1ec9ca39bc4,gutsy.garden,available,1.98,43.98,high,low,5,namecheap,,,20/08/2026 21:14
 710951b4-c316-4146-a9f8-770f4c2cd450,baikal.garden,available,1.98,43.98,high,low,6,namecheap,,,21/09/2026 18:54
 4238b237-1db6-44bc-8a97-e44ebbd8f248,angelus.garden,available,1.98,43.98,high,low,7,namecheap,,,19/09/2026 06:03
-914d7677-9554-4d4a-88d8-3cee00f197c1,rides.garden,premium,854,29.5,high,low,5,namesilo,,,17/09/2026 06:42
+914d7677-9554-4d4a-88d8-3cee00f197c1,rides.garden,premium,854,29.5,medium,low,5,namesilo,,,17/09/2026 06:42
 113735bc-1f9c-4c26-8ab6-7aef1e2b0f52,interrupt.garden,available,46.99,46.99,high,low,9,name.com,,,13/08/2026 12:38
 30445b25-3669-4e64-a15b-8d0e75fd79a6,sullivan.garden,available,1.98,43.98,high,low,8,namecheap,,,19/09/2026 10:20
 498c566a-f884-4a1f-83a4-b2320097e449,sternly.garden,available,2.19,32.49,medium,low,7,namesilo,,,16/09/2026 07:01
@@ -445,9 +450,11 @@ c488f3ca-c5c1-4f6f-b1cd-3f71d1c21145,conquer.garden,available,39.98,,high,low,7,
 1a12035b-5cce-4aad-878a-5e044a5bfcdf,kinda.garden,available,1.99,,high,low,5,name.com,,,
 ddadbfd8-e7af-4c6d-b5e8-d0fee1d4e49a,angelical.garden,available,2.19,32.49,medium,low,9,namesilo,,,22/09/2026 04:27
 f1725abe-c3a6-4640-8255-1e4c072869c2,arugula.garden,premium,52,32.5,high,low,7,namecheap,,,20/09/2026 12:10
+6b73861d-3d57-4c49-81c9-3820c77a2870,zhu.garden,premium,41.6,26.08,high,low,3,spaceship,,,27/09/2026 20:59
 af9bbd38-1a9e-47e6-91fb-769f7c6cca74,stertorous.garden,available,1.98,43.98,low,low,10,namecheap,,,10/09/2026 20:21
 a4d033b3-4d6c-4e63-bd18-3058964c93a3,talk.garden,premium,854,29.5,high,low,4,namesilo,,,
 851545bc-7507-44f4-9259-2205f92698d9,elvish.garden,available,1.98,43.98,medium,low,6,namecheap,,,16/08/2026 03:43
+0663ef5e-e661-4e06-9186-f76dabdc4df1,realise.garden,available,1.24,26.08,high,low,7,spaceship,,,27/09/2026 16:29
 6933030d-acfe-4a41-bca5-1e45534ab791,cerebral.garden,available,1.98,43.98,high,low,8,namecheap,,,12/08/2026 00:30
 b01eb349-53a6-41d4-ada2-b525974d4fb9,center.garden,premium,96,29.5,high,low,6,namesilo,,,23/09/2026 13:19
 04bd1d32-440f-471c-bced-749c7b3ef13c,helium.garden,available,2.19,32.49,high,low,6,namesilo,,,20/09/2026 22:31
@@ -455,12 +462,13 @@ b01eb349-53a6-41d4-ada2-b525974d4fb9,center.garden,premium,96,29.5,high,low,6,na
 8d047529-17ed-4987-b4fe-bbc9f84f46c6,yards.garden,available,1.99,46.99,high,low,5,name.com,,,25/09/2026 05:56
 185a35a1-f090-4851-9c5d-67ab5a03a2b1,penultima.garden,available,1.98,43.98,medium,low,9,namecheap,,,08/09/2026 15:14
 65964a10-c4ab-4411-bee3-d37d00e9a067,tung.garden,available,2.19,32.49,high,low,4,namesilo,,,18/09/2026 05:36
+1c80eb44-2ad7-4dea-a0e8-6a69807390b9,republic.garden,available,2.49,26.97,high,low,8,dynadot,,,27/09/2026 15:32
 75b02f96-7fcc-4731-94e8-badb898c09f6,opposable.garden,available,1.98,43.98,medium,low,9,namecheap,,,06/08/2026 07:43
 5676672c-5dde-490c-8e21-52cf2d0d4bb1,historic.garden,premium,47.2,29.5,high,low,8,namesilo,,,21/08/2026 09:51
 008d2a3b-3529-41c2-93bc-4d3900d34073,involute.garden,available,1.98,43.98,high,low,8,namecheap,,,22/08/2026 09:12
 41a328eb-961c-4604-93a9-1a2d8d8d6b46,plugged.garden,available,1.98,43.98,high,low,7,namecheap,,,08/09/2026 21:30
 25c833bb-2b05-4689-8519-d3db6dcea9a3,some.garden,premium,854,29.5,high,low,4,namesilo,,,19/09/2026 12:35
-c320bd72-89bc-402b-9d2f-6d53d3f3b3ab,relocated.garden,available,1.98,43.98,high,low,9,namecheap,,,09/09/2026 13:39
+c320bd72-89bc-402b-9d2f-6d53d3f3b3ab,relocated.garden,available,1.98,43.98,medium,low,9,namecheap,,,09/09/2026 13:39
 b06a862f-e475-4a73-ad7e-0470da20ed32,sate.garden,available,1.98,43.98,medium,low,4,namecheap,,,09/09/2026 14:30
 da8b9970-667b-4f68-b1a8-9be490dfd70b,alkyl.garden,available,2.19,32.49,high,low,5,namesilo,,,18/09/2026 08:34
 eb9d4867-cf1b-4236-8627-7c66a472069a,pencilled.garden,available,1.98,43.98,medium,low,9,namecheap,,,08/09/2026 13:59
@@ -476,8 +484,9 @@ d894e449-4d02-433e-a652-5e4ad52a8fd0,weapon.garden,available,2.19,32.49,high,low
 2a1e7ac0-a200-4e34-9871-c1f706baf4c2,calamus.garden,available,2.19,32.49,high,low,7,namesilo,,,17/09/2026 02:27
 9d61c90d-24ee-4af7-9b06-26f26b4a654b,ottar.garden,available,1.98,43.98,high,low,5,namecheap,,,20/09/2026 19:29
 c90bf2ca-8b1f-4333-9ab0-42414708d4fb,iraqi.garden,available,1.98,43.98,high,low,5,namecheap,,,22/08/2026 09:35
-1a346c07-9b50-49bf-b94f-252676813595,rhomboid.garden,available,1.98,43.98,high,low,8,namecheap,,,09/09/2026 16:47
-a8b346c3-d4ed-42ce-b854-1a1bc4f2f9da,bony.garden,available,1.98,43.98,high,low,4,namecheap,,,10/08/2026 18:42
+1a346c07-9b50-49bf-b94f-252676813595,rhomboid.garden,available,1.98,43.98,medium,low,8,namecheap,,,09/09/2026 16:47
+f4c4b3cb-12e7-4a7e-a63b-30515459c447,shenandoah.garden,available,1.24,26.08,high,low,10,spaceship,,,27/09/2026 21:14
+a8b346c3-d4ed-42ce-b854-1a1bc4f2f9da,bony.garden,available,1.98,43.98,medium,low,4,namecheap,,,10/08/2026 18:42
 9b9b09ba-c63d-44e6-bac0-ea4437c8d7cc,bleak.garden,available,,,medium,low,5,,,,
 0e9815bb-c395-498e-a6b8-9eb8f6c0a122,tumbleweed.garden,available,2.19,32.49,high,low,10,namesilo,,,18/09/2026 15:52
 c64c6aee-b744-40f7-80ea-4c90b32a9f15,loveless.garden,available,1.98,43.98,medium,low,8,namecheap,,,24/08/2026 10:09
@@ -491,21 +500,22 @@ fab6764f-c690-491b-9793-eab8adf6bce1,algerian.garden,available,1.98,43.98,high,l
 0175491b-4bb1-46d4-9117-b253f8107bd1,indiscreet.garden,available,1.98,43.98,medium,low,10,namecheap,,,22/08/2026 03:07
 2f29eda5-edd3-46d8-960c-4532dfa1cacd,maximal.garden,available,1.98,43.98,high,low,7,namecheap,,,24/08/2026 17:54
 49e53853-4750-4c47-abaa-cfca9f9eb7e6,prisoner.garden,available,1.98,43.98,high,low,8,namecheap,,,11/08/2026 18:26
-bcfaf1fb-5c34-44f0-9708-19846e7c8fd4,witching.garden,available,1.98,43.98,high,low,8,namecheap,,,13/09/2026 12:46
+bcfaf1fb-5c34-44f0-9708-19846e7c8fd4,witching.garden,available,1.98,43.98,medium,low,8,namecheap,,,13/09/2026 12:46
 bd7d48db-ef61-4919-a9ed-b6e4bb9faeb7,alleged.garden,available,2.19,32.49,high,low,7,namesilo,,,22/09/2026 01:19
 aceba201-4eff-4eaa-af3c-f827907a7052,amphibian.garden,available,1.98,43.98,high,low,9,namecheap,,,
 431667cb-a840-4207-8738-9afdba49c24d,commonsense.garden,available,1.99,,high,low,12,name.com,,,
 a5b06625-8dcb-4181-8f84-dcd4be7b24e6,flaming.garden,available,1.98,43.98,high,low,7,namecheap,,,18/08/2026 06:30
 b26a2715-4ffa-45af-8cf3-e2011d74c346,salary.garden,available,1.99,,high,low,6,name.com,,,
-d7441ec3-c0bb-45ff-87cf-fc77746aac66,walters.garden,available,2.19,32.49,high,low,7,namesilo,,,25/09/2026 15:56
+d7441ec3-c0bb-45ff-87cf-fc77746aac66,walters.garden,available,2.19,32.49,medium,low,7,namesilo,,,25/09/2026 15:56
 0fb2a9bb-2a4c-472a-97aa-ee721ead0a7b,friar.garden,available,1.98,43.98,medium,low,5,namecheap,,,24/08/2026 20:10
-db9cf4c5-e660-409c-8b43-33208521b74b,chasten.garden,available,1.98,43.98,high,low,7,namecheap,,,11/09/2026 07:42
+db9cf4c5-e660-409c-8b43-33208521b74b,chasten.garden,available,1.98,43.98,medium,low,7,namecheap,,,11/09/2026 07:42
+bc709c0e-4bd9-4e9d-978a-187e41775453,montana.garden,premium,414.2,26.08,high,low,7,spaceship,,,28/09/2026 02:26
 52fb46b3-7509-420a-bdb9-5605069a81f4,persistent.garden,available,1.98,43.98,high,low,10,namecheap,,,14/08/2026 14:58
 5f8826ec-3b13-4349-a076-ddc99d5f903a,juicy.garden,premium,50,46.99,high,low,5,name.com,,,18/08/2026 19:59
 ba9e5af3-61ff-4cfc-9179-c9a109a4b148,clothing.garden,premium,52,32.5,high,low,8,namecheap,,,23/09/2026 08:13
 8db403cf-a7be-44f4-8889-86c604f859be,millions.garden,available,1.98,43.98,medium,low,8,namecheap,,,25/09/2026 20:31
 964898c6-1456-4ca3-87eb-4d075b2fc811,material.garden,premium,96,29.5,high,low,8,namesilo,,,23/09/2026 23:27
-684c27dd-bb41-4ad8-9ce6-7406c36099b7,thoroughly.garden,available,1.98,43.98,high,low,10,namecheap,,,14/09/2026 17:01
+684c27dd-bb41-4ad8-9ce6-7406c36099b7,thoroughly.garden,available,1.98,43.98,medium,low,10,namecheap,,,14/09/2026 17:01
 824c2b44-286c-440a-9ce3-0ca335a28a82,aniseed.garden,available,2.19,32.49,high,low,7,namesilo,,,19/09/2026 09:27
 2e14edeb-e1c9-4b21-a79c-d242edbeb57b,shepard.garden,available,2.19,32.49,high,low,7,namesilo,,,18/09/2026 01:40
 59ec3aa3-702d-4e0e-bfea-2a37f10d0120,arid.garden,available,1.98,43.98,high,low,4,namecheap,,,06/08/2026 18:58
@@ -514,7 +524,8 @@ ba9e5af3-61ff-4cfc-9179-c9a109a4b148,clothing.garden,premium,52,32.5,high,low,8,
 bf83fa04-6de3-4fcf-9e1a-d64ca45d6156,tatum.garden,available,2.19,32.49,high,low,5,namesilo,,,20/09/2026 10:00
 9db5da0d-9a0e-4228-8fd8-70f7189122f2,simulated.garden,available,1.98,43.98,high,low,9,namecheap,,,18/08/2026 00:16
 699ec12b-ebf3-4e61-84c0-8a5f62830348,scaled.garden,available,1.98,43.98,high,low,6,namecheap,,,09/09/2026 22:20
-ac6d8564-7e12-429f-9585-2d2cdbc4fd5a,scripted.garden,available,1.99,,high,low,8,name.com,,,
+7c2ca36e-4f4b-458a-9cd2-337d23d2d947,cohn.garden,available,1.24,26.08,medium,low,4,spaceship,,,28/09/2026 01:41
+ac6d8564-7e12-429f-9585-2d2cdbc4fd5a,scripted.garden,available,2.19,32.49,high,low,8,namesilo,,,27/09/2026 18:42
 353f08ce-496e-45c6-8b7b-b15789dfed3e,tamil.garden,available,1.98,43.98,high,low,5,namecheap,,,11/09/2026 07:48
 1c9ebf56-9200-4400-a287-b2b8904c4374,sacral.garden,available,1.98,43.98,high,medium,6,namecheap,,,09/09/2026 20:38
 4773797d-a8c6-43a3-b295-8d7f96109a10,goddamned.garden,available,1.98,43.98,medium,low,9,namecheap,,,10/08/2026 12:48
@@ -535,6 +546,7 @@ e301960b-6141-4e32-87ad-65bae2bb4888,tuneful.garden,available,1.98,43.98,high,lo
 c711f8df-0ebb-4bb0-8243-76a3110cb1ce,holistic.garden,premium,96,29.5,high,low,8,namesilo,,,21/08/2026 10:30
 2f626c3d-ccab-4fd8-82f7-c0c2a1495c34,slope.garden,available,1.99,,high,low,5,name.com,,,
 6568edf6-9ffc-41c4-a3bb-271b3df977e3,statistics.garden,available,1.99,,high,low,10,name.com,,,
+2b56ae83-d402-4e3a-aa92-5db43f16345f,evansville.garden,available,1.24,26.08,medium,low,10,spaceship,,,28/09/2026 01:52
 4d6a95e9-11b7-4f2d-9eb8-d7e02faf6840,purau.garden,available,1.98,43.98,medium,low,5,namecheap,,,21/09/2026 22:02
 408cebc1-8ffe-4cde-a1f1-e902d6e67fe0,hydroxy.garden,available,1.98,43.98,high,low,7,namecheap,,,21/08/2026 16:25
 0a6c884f-f688-4179-b3ab-9d76157b3f9a,bottle.garden,premium,512,29.5,high,low,6,namesilo,,,24/09/2026 07:30
@@ -543,18 +555,18 @@ cd804b14-4cd7-461c-b0c7-ea5094a79389,lithium.garden,premium,500,46.99,high,low,7
 14a270d1-b78e-46c9-af4a-396501cb2f8d,style.garden,premium,854,29.5,high,low,5,namesilo,,,08/09/2026 07:22
 aa7d7c2f-0123-427e-94fd-c085e6df9154,dues.garden,available,1.99,46.99,high,low,4,name.com,,,19/09/2026 19:46
 462bc0e3-f335-4898-9dea-1a6f52b6bd57,recommendation.garden,available,1.99,,high,low,14,name.com,,,
-f02e9cf8-51f6-46f7-bce7-b2f417b4a7ee,devonian.garden,available,2.19,32.49,high,low,8,namesilo,,,17/09/2026 16:49
+f02e9cf8-51f6-46f7-bce7-b2f417b4a7ee,devonian.garden,available,2.19,32.49,medium,low,8,namesilo,,,17/09/2026 16:49
 c69cc30c-8dd4-4ce8-9584-5f6cef22fe73,harm.garden,available,39.98,,high,low,4,namecheap,,,
 b9a6e098-f857-4de0-bbdf-c73be5287dd1,ocular.garden,available,1.98,43.98,high,low,6,namecheap,,,04/09/2026 00:41
 c02e04d9-4d06-4597-85fa-bf4903d66d92,mirish.garden,available,1.98,43.98,medium,low,6,namecheap,,,16/09/2026 16:36
 fa761f34-5562-412e-9d11-e3210fa1ecdf,fabulously.garden,available,1.98,43.98,medium,low,10,namecheap,,,14/09/2026 17:19
-06645048-b888-4d15-b17e-23a6e59b0f03,instruments.garden,available,2.19,32.49,high,low,11,namesilo,,,25/09/2026 16:57
+06645048-b888-4d15-b17e-23a6e59b0f03,instruments.garden,available,2.19,32.49,medium,low,11,namesilo,,,25/09/2026 16:57
 270e18b2-4d62-489f-8660-da0ab5a51e53,ant.garden,premium,2500,,high,medium,3,name.com,,,
 dec7bb54-3769-4ee5-a10d-b4a4eab65bd8,frilly.garden,available,1.98,43.98,medium,low,6,namecheap,,,18/08/2026 15:51
 2648135c-1782-4aab-b9be-5f0ffd0f7685,rowland.garden,available,2.19,32.49,high,low,7,namesilo,,,25/09/2026 15:13
 6b863a3d-469e-474c-a360-a453ddde6039,arguably.garden,available,1.98,43.98,medium,low,8,namecheap,,,13/09/2026 20:45
 e2bb8af1-2e78-426e-8481-8a7ba5f9de3f,purpleness.garden,available,1.98,43.98,high,medium,10,namecheap,,,09/09/2026 06:23
-4125f157-a3df-4e81-99f1-cad355bdb044,sultry.garden,available,1.98,43.98,high,low,6,namecheap,,,10/09/2026 20:31
+4125f157-a3df-4e81-99f1-cad355bdb044,sultry.garden,available,1.98,43.98,medium,low,6,namecheap,,,10/09/2026 20:31
 c5e60e50-157e-4eb1-807c-c4d3d2ec9da4,birdseed.garden,available,1.98,43.98,high,low,8,namecheap,,,23/09/2026 19:50
 7f06fde9-59c2-4061-a731-7258af7b30f6,uncolored.garden,available,1.98,43.98,medium,low,9,namecheap,,,12/09/2026 02:06
 73890de0-cba2-4fec-b54e-2f16b4c897b6,indigotin.garden,available,1.98,43.98,medium,low,9,namecheap,,,22/08/2026 03:05
@@ -562,7 +574,7 @@ c5e60e50-157e-4eb1-807c-c4d3d2ec9da4,birdseed.garden,available,1.98,43.98,high,l
 4f7971ab-8c6e-45c7-9ff5-e5b5ff3f2b3e,lemonlike.garden,available,1.98,43.98,medium,low,9,namecheap,,,22/08/2026 23:27
 e6a9b1b1-3de8-4f80-afd5-c19eb5e61e5b,queried.garden,available,2.19,32.49,medium,low,7,namesilo,,,20/09/2026 15:21
 bd5d3932-5057-4084-966b-33772cf114f1,crush.garden,premium,96,29.5,high,low,5,namesilo,,,09/08/2026 05:21
-7f34c70b-99c1-4568-a1da-1dca5fa973cd,dishonor.garden,available,1.99,,high,low,8,name.com,,,
+7f34c70b-99c1-4568-a1da-1dca5fa973cd,dishonor.garden,available,1.99,,medium,low,8,name.com,,,
 657399f5-26b8-4f59-bffd-b8fbff066fa5,borderline.garden,available,2.19,32.49,high,low,10,namesilo,,,23/09/2026 00:01
 e8cdbb3c-5e6e-4381-8036-3a2c78e7b22c,relies.garden,available,2.19,32.49,medium,low,6,namesilo,,,20/09/2026 06:27
 e4a74a68-560c-4203-b22a-774063714a1d,relative.garden,available,1.98,43.98,high,low,8,namecheap,,,12/08/2026 21:33
@@ -576,6 +588,7 @@ caf6b5bd-a2c8-4536-a2cd-4202f1710612,arctiid.garden,available,2.19,32.49,medium,
 3cb510ab-df2a-410a-b485-a851eaab0a8b,traps.garden,available,2.19,32.49,high,low,5,namesilo,,,20/09/2026 04:06
 7ab514fe-48b9-4941-824b-98e1da02d372,watkins.garden,available,2.19,32.49,high,low,7,namesilo,,,25/09/2026 15:58
 373b3ee0-9a37-4382-90e1-12ca412b3fb4,baya.garden,available,1.98,43.98,medium,low,4,namecheap,,,22/09/2026 17:54
+1197e6af-fe99-4da7-93d6-d5b3c07f9c59,sonoma.garden,premium,,,high,low,6,,,,27/09/2026 20:23
 58bb123e-4f99-4702-bc3c-29004b5c6392,airfare.garden,available,2.19,32.49,high,low,7,namesilo,,,17/09/2026 23:10
 669bc364-f42b-4895-93f1-8a786dbb3016,pit.garden,premium,512,29.5,high,low,3,namesilo,,,24/09/2026 13:22
 bb82a932-3576-4c82-9b62-98738748c87f,chinchy.garden,available,1.98,43.98,low,low,7,namecheap,,,12/08/2026 05:42
@@ -583,7 +596,7 @@ c962795a-953b-4f47-825d-5ad9c402b0ef,rente.garden,available,1.99,46.99,medium,lo
 95d55978-baf9-4683-8050-fd5a5e935f9d,billed.garden,available,1.98,43.98,high,low,6,namecheap,,,09/08/2026 21:23
 1a26d2cf-5516-4dca-85ab-c56c911ca5a7,outwards.garden,available,1.98,43.98,medium,low,8,namecheap,,,04/09/2026 19:50
 4448853f-8ec1-4f85-9137-673b9d6ef439,alonso.garden,available,2.19,32.49,high,low,6,namesilo,,,18/09/2026 07:29
-42c1acc2-303d-4b3d-9d2c-8cd5b59e03aa,cyril.garden,available,2.19,32.49,high,low,5,namesilo,,,25/09/2026 04:29
+42c1acc2-303d-4b3d-9d2c-8cd5b59e03aa,cyril.garden,available,2.19,32.49,medium,low,5,namesilo,,,25/09/2026 04:29
 4e6f8450-d782-4149-8a9d-5c6f4db36367,introduction.garden,available,1.99,,high,low,12,name.com,,,
 ed09e469-70bd-4a89-9b2e-c32e7a93f5d5,enviable.garden,available,1.98,43.98,high,low,8,namecheap,,,24/09/2026 14:16
 fb486f13-4592-454f-ab0d-b6bdfc0b63fa,newcomer.garden,available,1.98,43.98,high,low,8,namecheap,,,18/08/2026 07:31
@@ -610,28 +623,27 @@ e5300ffe-016d-4cef-ba10-ec210292bb0c,wiggler.garden,available,2.19,32.49,medium,
 d84a7ae9-1d2c-4b69-a89c-59aebe300fee,asymmetric.garden,available,1.98,43.98,medium,low,10,namecheap,,,07/08/2026 10:25
 ee0388b9-310b-48fd-a74c-d8b59754767d,genuinely.garden,available,1.99,,high,low,9,name.com,,,
 9806d0d8-e65f-4046-8044-b520001089ca,limo.garden,premium,854,29.5,high,low,4,namesilo,,,
-6b9e04a3-b352-4a5b-8b9d-5b0a872228b6,edwin.garden,available,2.19,32.49,high,low,5,namesilo,,,25/09/2026 05:17
+6b9e04a3-b352-4a5b-8b9d-5b0a872228b6,edwin.garden,available,2.19,32.49,medium,low,5,namesilo,,,25/09/2026 05:17
 ce68dc09-383a-4cc2-97b0-c5f75399cd9f,bound.garden,premium,96,29.5,high,low,5,namesilo,,,22/09/2026 07:27
 9ee2d8a2-89f3-4b2f-b7f2-b464deb6f7cb,agential.garden,available,,,medium,low,8,,,,
 defbee5e-47b7-43f6-b950-e03364dd6bd8,mangold.garden,available,2.19,32.49,high,low,7,namesilo,,,23/09/2026 11:02
 1f84efc1-aeb9-42b2-9176-5cb2aaa5cb3c,plutonic.garden,available,2.19,32.49,medium,low,8,namesilo,,,19/09/2026 03:29
-9a287b7d-6801-4cf4-9f8c-0916f6f7ee02,formulaic.garden,available,1.98,43.98,high,low,9,namecheap,,,18/08/2026 12:18
+9a287b7d-6801-4cf4-9f8c-0916f6f7ee02,formulaic.garden,available,1.98,43.98,medium,low,9,namecheap,,,18/08/2026 12:18
 a5613311-8396-4c2f-b816-32335eb05e1d,anaerobic.garden,available,1.98,43.98,medium,low,9,namecheap,,,
 fe25f92d-d9e7-4b5d-930b-32376ceccc79,homebody.garden,available,1.98,43.98,medium,low,8,namecheap,,,10/09/2026 19:28
 a46f3784-53a0-49c6-8aa2-743b02054995,celluloid.garden,available,1.98,43.98,high,low,9,namecheap,,,11/08/2026 23:34
 5daa0fac-30ae-499f-a361-185b28c188a7,sarawakian.garden,available,1.98,43.98,high,medium,10,namecheap,,,09/09/2026 21:26
-25bd327b-ec57-4671-9ea1-9154756b2441,ashy.garden,available,1.98,43.98,high,low,4,namecheap,,,07/08/2026 02:04
+25bd327b-ec57-4671-9ea1-9154756b2441,ashy.garden,available,1.98,43.98,medium,low,4,namecheap,,,07/08/2026 02:04
 3d258c57-e0af-49fb-80a8-add7fc060175,swanky.garden,available,1.98,43.98,high,low,6,namecheap,,,11/09/2026 05:15
 d067d856-6aba-4b3a-ac0e-29abcd046d86,impound.garden,available,1.98,43.98,high,low,7,namecheap,,,12/08/2026 21:04
 3f5cfd65-1ce3-4f28-9660-c1f8b37590e9,catechetic.garden,available,1.98,43.98,medium,low,10,namecheap,,,11/08/2026 21:25
-81c4d1fb-2e4a-4fbc-b5ac-a97105401bde,angled.garden,available,1.98,43.98,high,low,6,namecheap,,,
+81c4d1fb-2e4a-4fbc-b5ac-a97105401bde,angled.garden,available,1.98,43.98,medium,low,6,namecheap,,,
 e08e2337-a8b1-4753-be1e-378b0403106c,waited.garden,available,2.19,32.49,medium,low,6,namesilo,,,18/09/2026 01:45
 89b663c4-b0a1-4bc7-83de-3f74d5704a86,vie.garden,premium,47.2,29.5,high,low,3,namesilo,,,
 810ccada-4875-4293-8433-6d65366c2729,own.garden,premium,512,29.5,high,high,3,namesilo,,,26/09/2026 03:33
 e5713e11-78bf-48d9-bbed-fdb73a82ac5e,doctorial.garden,available,1.98,43.98,medium,low,9,namecheap,,,14/08/2026 14:21
 ac915a25-6c7f-4cda-a8c5-0d2dc1d4cff6,agelong.garden,available,1.98,43.98,medium,low,7,namecheap,,,
 f233e0b4-0f94-450a-8a51-40d1341b7f2a,playing.garden,premium,512,29.5,high,low,7,namesilo,,,21/09/2026 16:27
-86feafde-ec94-420b-be69-34fb69e027c3,sensory.garden,available,1.99,,high,low,7,name.com,,,
 2d404a49-d467-4b9d-aec6-ea6fa7aea5c2,bureaucrat.garden,available,2.19,32.49,high,low,10,namesilo,,,17/09/2026 08:44
 c45a2184-5e7a-4c8b-83b0-f4383b4ec50a,foursquare.garden,premium,96,29.5,high,low,10,namesilo,,,18/08/2026 13:48
 76cee0c9-b1f0-43f2-a967-3ff1220e0020,ducktape.garden,available,2.19,32.49,high,low,9,namesilo,,,27/09/2026 08:55
@@ -640,12 +652,13 @@ dbbe8b8c-42ba-4bef-9011-558c3b356e8e,screwing.garden,available,1.98,43.98,medium
 744dac26-c109-4cca-9e02-3e9d23904d99,fabled.garden,available,1.98,43.98,high,low,6,namecheap,,,17/08/2026 20:12
 60b76820-0141-4fae-8a00-49b5d66039d1,frilled.garden,available,1.98,43.98,medium,low,7,namecheap,,,18/08/2026 15:49
 8751e264-f610-4cc2-96b9-f14f55f41a56,mindfully.garden,available,1.98,43.98,high,low,9,namecheap,,,13/09/2026 17:29
+10f911ce-ff70-43fa-b6e2-82c06be326a8,bryce.garden,premium,,,high,low,5,,,,27/09/2026 19:56
 b79e76e0-4770-4606-9c33-b3bd9ac19947,ytterbium.garden,available,2.19,32.49,medium,low,9,namesilo,,,20/09/2026 23:38
 ca23bd27-4637-44e0-897b-8ff313891fdc,fuzzy.garden,available,2.19,32.49,high,low,5,namesilo,,,22/09/2026 23:28
 2141342c-d80d-4705-bbdc-11eed397ba49,anal.garden,available,1.98,43.98,high,low,4,namecheap,,,
 493594ab-ea5c-4d8d-99c0-d90a68433d20,debut.garden,available,1.98,43.98,high,low,5,namecheap,,,24/09/2026 21:09
 436df80c-63df-48c7-b282-8218c7e45682,affirm.garden,available,,,high,high,6,,,,
-d2af7782-30a4-40da-a899-934a88333e37,randomly.garden,available,1.98,43.98,high,low,8,namecheap,,,13/09/2026 20:35
+d2af7782-30a4-40da-a899-934a88333e37,randomly.garden,available,1.98,43.98,medium,low,8,namecheap,,,13/09/2026 20:35
 d70e2b60-b052-41ce-b97a-ac253f4da517,exothermal.garden,available,1.98,43.98,medium,low,10,namecheap,,,17/08/2026 17:47
 6ab489ae-70a8-4b62-84c1-d8e42d02f811,sabin.garden,available,1.98,43.98,high,low,5,namecheap,,,18/09/2026 02:37
 6c072389-2b06-4322-a0b0-c7794931034f,egoistic.garden,available,1.98,43.98,medium,low,8,namecheap,,,15/08/2026 18:54
@@ -659,7 +672,7 @@ a6e8bf15-894f-4e07-aa85-debf441595cb,grassless.garden,available,1.98,43.98,high,
 de887c54-6492-48a0-82d3-7ddc96fe47ce,caleb.garden,premium,52,32.5,high,low,5,namecheap,,,27/09/2026 11:16
 bf98b62c-5396-4083-bb99-801d0cae2c20,vip.garden,premium,2660,29.5,high,medium,3,namesilo,,,24/09/2026 22:17
 9833c1e5-60aa-4e7e-94b0-b8b2c209750f,ass.garden,premium,500,46.99,high,low,3,name.com,,,09/08/2026 12:05
-d30a321f-4b06-40ac-8f85-1a82a2592002,exportable.garden,available,1.98,43.98,high,low,10,namecheap,,,17/08/2026 18:35
+d30a321f-4b06-40ac-8f85-1a82a2592002,exportable.garden,available,1.98,43.98,medium,low,10,namecheap,,,17/08/2026 18:35
 8054a92d-5524-431a-b977-095d2d792dcd,amd.garden,available,2.19,32.49,high,low,3,namesilo,,,17/09/2026 16:44
 f9a60267-abab-4b7c-a142-26079c115143,drink.garden,premium,854,29.5,high,low,5,namesilo,,,04/09/2026 13:20
 adbed026-1a34-4c8b-bbc9-a2e2af859dcc,cos.garden,premium,520,32.5,high,medium,3,namecheap,,,24/09/2026 18:26
@@ -685,11 +698,11 @@ ab4b76fb-d3f1-42c6-8daa-98907cd6da3b,handler.garden,available,2.19,32.49,high,lo
 1be7892b-0909-4dc5-98f3-77d37f5ed820,apish.garden,available,1.98,43.98,medium,low,5,namecheap,,,06/08/2026 00:12
 42dd62a5-729d-4869-b9d1-0def6c39cc7a,bellowing.garden,available,2.19,32.49,medium,low,9,namesilo,,,23/09/2026 06:18
 4730dba3-fec3-4b9e-bd16-668ccd76e8f3,norton.garden,available,2.19,32.49,high,high,6,namesilo,,,25/09/2026 12:24
-9b92fdaf-7f6a-4b7e-a851-cd27361951ad,antitrust.garden,available,1.98,43.98,high,low,9,namecheap,,,
+9b92fdaf-7f6a-4b7e-a851-cd27361951ad,antitrust.garden,available,1.98,43.98,medium,low,9,namecheap,,,
 8badc1d4-950f-4c73-a359-fc21affbcec8,behaviours.garden,available,1.98,43.98,medium,low,10,namecheap,,,20/09/2026 22:06
-05f5db0c-91b9-4337-b5e5-bfbe808671d4,auroral.garden,available,2.19,32.49,high,low,7,namesilo,,,22/09/2026 13:08
+05f5db0c-91b9-4337-b5e5-bfbe808671d4,auroral.garden,available,2.19,32.49,medium,low,7,namesilo,,,22/09/2026 13:08
 0a5b4d0a-0e75-4a6f-9a25-fcea340b4f85,granddad.garden,available,1.99,,high,low,8,name.com,,,
-1b5523d8-7fb9-4552-a79b-d17ab019cc79,auspices.garden,available,2.19,32.49,high,low,8,namesilo,,,17/09/2026 12:16
+1b5523d8-7fb9-4552-a79b-d17ab019cc79,auspices.garden,available,2.19,32.49,medium,low,8,namesilo,,,17/09/2026 12:16
 c03bffb8-7bb8-4f2c-aec4-b88dff6484ff,aflare.garden,available,1.98,43.98,medium,low,6,namecheap,,,
 9205d76d-05d9-417a-8304-a0819154d3aa,unwelcome.garden,available,1.98,43.98,medium,low,9,namecheap,,,12/09/2026 22:38
 fd2ace3b-0cd2-4ddd-9bb9-afce9b89f87b,corsair.garden,available,2.19,32.49,high,low,7,namesilo,,,22/09/2026 04:33
@@ -699,7 +712,7 @@ c19b9894-3307-4d8b-ac36-1be3f010d42e,argal.garden,available,2.19,32.49,medium,lo
 87b7d0b5-8e4c-4974-964a-eb8b0c8a94e5,forgetting.garden,available,1.99,,high,low,10,name.com,,,
 9bef93b5-86a1-41da-866d-e955639f8552,floral.garden,premium,2500,46.99,high,low,6,name.com,,,18/08/2026 08:54
 ffb5e87c-afb3-4d56-8762-f03c2819507e,verbatim.garden,available,1.98,43.98,high,low,8,namecheap,,,13/09/2026 02:21
-b0ed3f2c-0cf1-4d81-9be8-9bd2c07a2615,enormously.garden,available,1.98,43.98,high,low,10,namecheap,,,14/09/2026 15:47
+b0ed3f2c-0cf1-4d81-9be8-9bd2c07a2615,enormously.garden,available,1.98,43.98,medium,low,10,namecheap,,,14/09/2026 15:47
 9260a893-3ba0-404a-8df9-b6c2db24fa73,bleary.garden,available,1.98,43.98,medium,low,6,namecheap,,,10/08/2026 13:59
 fe2b0c90-f7e1-49bf-9860-d65d561495af,eastern.garden,available,1.98,43.98,high,low,7,namecheap,,,24/09/2026 13:10
 2b2f7f28-6793-49cd-8db0-f2fb50af4deb,addiction.garden,available,2.19,32.49,high,low,9,namesilo,,,17/09/2026 06:53
@@ -713,7 +726,7 @@ d8f47215-fe73-452a-8d0e-af3ca3dc0625,counterterrorism.garden,available,43.98,,me
 13685990-b1f9-4db3-9eed-f868ec9524fb,nutbrown.garden,available,1.98,43.98,medium,low,8,namecheap,,,03/09/2026 23:14
 562746ba-9ccf-4c8a-ac65-375bed93efd3,capsular.garden,available,1.98,43.98,medium,low,8,namecheap,,,08/09/2026 04:10
 70890eee-3636-4ae1-8a82-44f73456f048,cosy.garden,premium,854,29.5,high,low,4,namesilo,,,13/08/2026 03:20
-f4518055-6377-4588-940f-4e8376bab4b4,cancel.garden,available,39.98,,high,low,6,namecheap,,,
+f4518055-6377-4588-940f-4e8376bab4b4,cancel.garden,available,39.98,,medium,low,6,namecheap,,,
 25a7a589-32ad-44cc-baf0-e30d0cba0b2f,papal.garden,available,1.98,43.98,medium,low,5,namecheap,,,06/08/2026 04:09
 8adc1952-2356-4a04-86e1-bcdde1f6dea7,restful.garden,available,1.98,43.98,high,low,7,namecheap,,,09/09/2026 13:26
 68aba7b2-dc63-4b0e-873d-3d6eeaa93071,quadratic.garden,available,1.98,43.98,high,low,9,namecheap,,,09/09/2026 07:19
@@ -727,6 +740,7 @@ d75aea67-c269-4629-b365-09d557daabe5,yellow.garden,premium,512,29.5,high,medium,
 c94ed8f5-59c1-4b2b-b43f-3d393774d7dd,produced.garden,available,2.19,32.49,medium,low,8,namesilo,,,19/09/2026 16:32
 0ae84fe3-02bd-421d-b333-5a2d6a817939,birches.garden,available,2.19,32.49,medium,low,7,namesilo,,,20/09/2026 07:32
 4df36687-4a0c-4579-b75c-568943ba2f57,vindicated.garden,available,1.98,43.98,high,low,10,namecheap,,,08/09/2026 05:23
+226a583b-6abf-4f15-a242-eef289724e66,ithaca.garden,available,1.24,26.08,high,low,6,spaceship,,,27/09/2026 14:23
 34946bb9-d52f-404d-b372-0f5e1ad3c638,demanding.garden,available,1.98,43.98,medium,low,9,namecheap,,,14/08/2026 01:06
 79b113ab-3737-4170-9d05-a63e8c34429e,bunco.garden,available,1.98,43.98,medium,low,5,namecheap,,,14/09/2026 07:59
 ea7eae59-70c8-4064-9a4a-955ef5ed6b01,conquest.garden,available,39.98,,high,low,8,namecheap,,,
@@ -773,6 +787,7 @@ b4bc81bf-787e-4ee9-b1b8-e216382f2d64,grass.garden,resell,,,high,low,5,"Spaceship
 b725cb4b-aad7-4c6f-ab32-797d7947792c,sheltered.garden,available,1.98,43.98,high,medium,9,namecheap,,,10/09/2026 06:27
 2022643a-1522-4540-bf58-6f251be25c70,rear.garden,available,1.98,43.98,high,low,4,namecheap,,,22/09/2026 19:06
 de099731-c8cd-4d62-9089-38e94f5805c8,fails.garden,available,1.98,43.98,medium,low,5,namecheap,,,18/09/2026 00:27
+a36d0ab5-3594-4742-853b-824caa7050c8,mick.garden,available,1.24,26.08,high,low,4,spaceship,,,28/09/2026 02:25
 5a997526-e0d0-49b4-8201-c24ed37a4334,meshing.garden,available,1.98,43.98,high,low,7,namecheap,,,22/08/2026 08:10
 e9d18118-83e0-436b-8d9a-fd0d72e19f78,abkhazia.garden,available,1.98,43.98,medium,low,8,namecheap,,,16/09/2026 16:03
 6e957190-b4b5-4414-80a3-7e455a12d565,victim.garden,available,1.99,,high,low,6,name.com,,,
@@ -782,6 +797,7 @@ c1b04e9a-9696-47f1-8bc9-0b07893319bb,biased.garden,available,1.98,43.98,medium,l
 f0a31cd5-cca5-4e7c-9d41-63082abe8bed,abc.garden,premium,512,29.5,high,medium,3,namesilo,,,24/09/2026 08:17
 2cb783d2-4cae-4270-830a-0a37e6c51a91,released.garden,available,1.99,,medium,low,8,name.com,,,
 5363513f-e2b2-4071-a17d-7e436ccd0289,sunshade.garden,available,2.19,32.49,high,low,8,namesilo,,,21/09/2026 10:14
+b157fe30-a4ad-422a-a209-933ac94d2eb8,luzon.garden,available,1.24,26.08,high,low,5,spaceship,,,27/09/2026 14:53
 f738971d-6fda-4edb-b753-10f4a5dcb6b3,bassinet.garden,available,2.19,32.49,medium,low,8,namesilo,,,22/09/2026 12:23
 b1a7ea03-091f-41b4-865f-9b1930130844,packages.garden,available,2.19,32.49,medium,low,8,namesilo,,,19/09/2026 00:23
 2a6e5ae6-27be-4c1e-9545-94104674189c,smiths.garden,available,1.98,43.98,medium,low,6,namecheap,,,19/09/2026 22:24
@@ -790,7 +806,7 @@ a1bc7e9f-f9e5-43bd-bd2c-ea3afd028a9a,loan.garden,premium,104,32.5,high,low,4,nam
 5cbabc64-0239-4b32-b606-a4d8846f5b6d,brighton.garden,available,2.19,32.49,high,low,8,namesilo,,,24/09/2026 10:19
 7679384b-eb31-4237-b81e-1cd91c6251a0,wording.garden,available,1.99,,high,low,7,name.com,,,
 bcd0e322-7acb-4f22-89c3-78c4b38b3188,saponified.garden,available,1.98,43.98,high,medium,10,namecheap,,,09/09/2026 21:21
-07b9de93-f4b3-4111-aec2-634b2e3c2d08,antenatal.garden,available,2.19,32.49,high,low,9,namesilo,,,22/09/2026 05:59
+07b9de93-f4b3-4111-aec2-634b2e3c2d08,antenatal.garden,available,2.19,32.49,medium,low,9,namesilo,,,22/09/2026 05:59
 997a7ba1-8351-44ab-a40f-ad6b20154289,feels.garden,available,1.99,,high,low,5,name.com,,,
 4acc6eed-4c1f-46d1-a083-99b0813b1461,portland.garden,premium,242,29.5,high,low,8,namesilo,,,
 b1eede42-f0a6-431e-96b5-9203f33fb92a,milky.garden,available,1.98,43.98,high,low,5,namecheap,,,24/08/2026 23:02
@@ -805,6 +821,7 @@ d84b8f7b-fab6-40bd-91ed-11be52c408a1,eye.garden,premium,47.2,29.5,high,low,3,nam
 b36e4b81-f533-4cf5-8542-2b9c2a8b439a,aboriginal.garden,available,1.98,43.98,high,low,10,namecheap,,,
 c9aded2f-666e-433d-a01c-772b0fbc4f0f,flag.garden,available,2.19,32.49,high,low,4,namesilo,,,25/09/2026 00:12
 ef28edf3-2c16-4451-97d5-b828fa19f85a,uncommitted.garden,available,1.99,,medium,low,11,name.com,,,
+390f7582-1d5d-4b2d-b361-5beab8c87d86,ribs.garden,available,2.19,32.49,medium,low,4,namesilo,,,28/09/2026 00:08
 2c69a80e-f372-419f-8529-b393c4fd393c,unfilmed.garden,available,1.98,43.98,medium,low,8,namecheap,,,12/09/2026 10:14
 bac6af79-964e-49ce-aa46-ed71d0537919,ateles.garden,available,1.98,43.98,medium,low,6,namecheap,,,20/09/2026 20:01
 1f9c9afe-cf73-432c-bdf8-bd82a3209dcf,fargo.garden,available,2.19,32.49,high,low,5,namesilo,,,25/09/2026 22:42
@@ -825,7 +842,7 @@ ff4facbf-75d8-4a58-b5be-9e1403da0c2a,stunted.garden,available,1.98,43.98,medium,
 9b040722-db8e-4484-ad89-ef661df97da7,underived.garden,available,1.98,43.98,medium,low,9,namecheap,,,12/09/2026 07:29
 73300540-e7e7-4b47-ba49-3f8f720300a7,judgment.garden,available,39.98,,high,low,8,namecheap,,,
 278a849a-fcb0-4830-86b0-dff161a84c8c,ransacked.garden,available,1.98,43.98,medium,low,9,namecheap,,,24/08/2026 09:49
-208adb9c-1810-4c79-8a38-9c973e2e0832,assur.garden,available,1.98,43.98,high,low,5,namecheap,,,20/09/2026 16:41
+208adb9c-1810-4c79-8a38-9c973e2e0832,assur.garden,available,1.98,43.98,medium,low,5,namecheap,,,20/09/2026 16:41
 6d82e06a-c80d-439b-8ffd-bdd24a9a229c,corrosion.garden,available,1.98,43.98,high,low,9,namecheap,,,24/09/2026 18:21
 861e25c5-ccdc-434a-a02e-07b8ebd0cfb8,demoted.garden,available,2.19,32.49,low,low,7,namesilo,,,21/09/2026 05:02
 521779b1-fc9b-43ea-942e-d4238c55ef1e,mayhap.garden,available,1.98,43.98,medium,low,6,namecheap,,,15/09/2026 13:45
@@ -846,10 +863,11 @@ cbc4ce08-688a-4f29-bf1a-445d12e1aace,throwaway.garden,available,1.98,43.98,mediu
 f876e57c-2faf-451f-97be-78ef2edd2716,dandified.garden,available,46.99,46.99,medium,low,9,name.com,,,13/08/2026 17:01
 83661f09-6383-45e0-9fc6-beb9e1278c7f,atrium.garden,premium,96,29.5,high,low,6,namesilo,,,21/09/2026 00:47
 4a864397-4241-486d-a26e-6c1196810c4f,enhance.garden,available,1.99,,high,low,7,name.com,,,
-d4a677f9-eafd-487f-8499-20f915c6c74a,linnean.garden,available,1.98,43.98,high,low,7,namecheap,,,23/08/2026 17:24
+d4a677f9-eafd-487f-8499-20f915c6c74a,linnean.garden,available,1.98,43.98,medium,low,7,namecheap,,,23/08/2026 17:24
 d6e3401d-3e4a-4ed6-860c-1acc266254c7,accretion.garden,available,2.19,32.49,high,low,9,namesilo,,,16/09/2026 23:14
 d16fafe7-383a-4d06-8905-1894e6d8dab8,slue.garden,available,1.98,43.98,high,medium,4,namecheap,,,10/09/2026 06:20
 6788af57-7909-4893-8bba-4c06f3dfac7e,skylark.garden,available,2.19,32.49,high,low,7,namesilo,,,18/09/2026 02:17
+fc1178ff-b06b-40dd-b5ee-cd06dc116c89,bradshaw.garden,available,1.24,26.08,high,low,8,spaceship,,,27/09/2026 18:05
 d09b50ed-d5e6-470c-8210-cedbbcb0cdc4,louvered.garden,available,1.98,43.98,medium,low,8,namecheap,,,24/08/2026 10:04
 04973a1e-b452-4e37-af15-ac853ed48ee2,airy.garden,available,1.98,43.98,high,low,4,namecheap,,,
 2dce8d01-51fa-4615-ae3c-1bafe22d03db,urge.garden,available,1.99,,high,low,4,name.com,,,
@@ -867,14 +885,13 @@ ace35729-f2c1-4605-b8b5-0a89bf27ae4a,wondrous.garden,available,2.19,32.49,high,l
 0cd08f03-5af7-43a3-b3f8-9692dab0f2ad,eid.garden,premium,47.2,29.5,high,low,3,namesilo,,,
 f2b027d5-cc33-4f6a-8929-28f42c566e4e,tenth.garden,available,2.19,32.49,high,low,5,namesilo,,,21/09/2026 11:17
 a807ee4d-533a-46aa-8424-aff7954e65b2,arrogant.garden,available,2.19,32.49,medium,low,8,namesilo,,,22/09/2026 08:39
-1d076fad-bc2c-4fe4-9a2a-91512f0c1644,arrears.garden,available,1.98,43.98,high,low,7,namecheap,,,20/09/2026 08:55
+1d076fad-bc2c-4fe4-9a2a-91512f0c1644,arrears.garden,available,1.98,43.98,medium,low,7,namecheap,,,20/09/2026 08:55
 57843194-d854-4f08-a631-aaaf54e46588,lxxvii.garden,available,1.98,43.98,medium,low,6,namecheap,,,
 1bb3f4bf-e6db-44fe-8f69-e236ac3f5316,baedeker.garden,available,1.98,43.98,medium,low,8,namecheap,,,21/09/2026 17:22
 4a360fa8-317e-4d06-9912-7a00917eb346,cesium.garden,available,2.19,32.49,medium,low,6,namesilo,,,20/09/2026 23:15
 bd0b025a-a2c9-4532-88d0-133e2208b062,palmar.garden,available,1.98,43.98,medium,low,6,namecheap,,,04/09/2026 23:58
 d6778275-6aaa-4833-b497-dcf88ae9e2ef,aardwolf.garden,available,1.98,43.98,medium,low,8,namecheap,,,19/09/2026 15:52
-70a8c2c4-4796-429f-be14-ddba94d4ebaf,swim.garden,available,1.99,,high,low,4,name.com,,,
-a1a08a4d-d3ff-4109-b3a1-31ffe21b3b60,millionth.garden,available,1.98,43.98,high,low,9,namecheap,,,24/08/2026 23:25
+a1a08a4d-d3ff-4109-b3a1-31ffe21b3b60,millionth.garden,available,1.98,43.98,medium,low,9,namecheap,,,24/08/2026 23:25
 994ef15d-431d-4128-a3fb-cc554df41107,mislabeled.garden,available,1.98,43.98,medium,low,10,namecheap,,,25/08/2026 01:21
 f9a8ffb9-6558-4417-bcd2-df0e06494788,decoders.garden,available,1.98,43.98,medium,low,8,namecheap,,,20/09/2026 07:41
 b514bda8-3824-4154-9db8-62829cffe368,projected.garden,available,1.98,43.98,high,low,9,namecheap,,,22/08/2026 14:46
@@ -892,7 +909,7 @@ f517a65b-a268-4350-b8bb-77faea924c87,muddled.garden,available,1.98,43.98,medium,
 8fc717f8-d7fd-4bc9-8664-0aee563e1f33,admass.garden,available,1.98,43.98,medium,low,6,namecheap,,,17/09/2026 08:43
 2cb33360-9423-4d4e-928d-ca9a851003ad,vassal.garden,available,1.98,43.98,medium,low,6,namecheap,,,18/08/2026 03:02
 724d1ed1-aae2-401a-be96-a6e32d0d94a7,untenable.garden,available,1.98,43.98,medium,low,9,namecheap,,,22/08/2026 02:35
-d17899b7-c744-4197-9e9d-7616f9778640,aptly.garden,available,1.98,43.98,high,low,5,namecheap,,,13/09/2026 16:19
+d17899b7-c744-4197-9e9d-7616f9778640,aptly.garden,available,1.98,43.98,medium,low,5,namecheap,,,13/09/2026 16:19
 c8477f8e-2209-40f3-9f39-a4682eb706ce,decisive.garden,available,1.98,43.98,high,low,8,namecheap,,,13/08/2026 21:36
 6cdbb9a0-e820-4d58-9ba7-ae2ddf5ade75,brush.garden,premium,854,29.5,high,low,5,namesilo,,,
 123f5309-32ad-49ca-b8f9-d44c2df303d1,runic.garden,available,1.98,43.98,medium,low,5,namecheap,,,09/09/2026 19:35
@@ -906,7 +923,7 @@ ddafef94-05af-4206-b8da-322eeeb12acb,panel.garden,available,1.98,43.98,high,low,
 0a37cf45-680d-45cf-8060-a3f068132b35,hurtful.garden,available,1.98,43.98,medium,low,7,namecheap,,,14/08/2026 00:28
 69102b3d-08b8-44bc-a234-22bfddff6650,acreage.garden,available,2.19,32.49,high,low,7,namesilo,,,17/09/2026 02:51
 6a94f822-6298-4a4d-8ce8-fb46bfccf5c5,apotheosis.garden,available,1.98,43.98,high,low,10,namecheap,,,03/09/2026 20:11
-f5867a68-51ba-4c49-824e-cbbbea76334d,ebooks.garden,available,2.19,32.49,high,low,6,namesilo,,,18/09/2026 08:29
+f5867a68-51ba-4c49-824e-cbbbea76334d,ebooks.garden,available,2.19,32.49,medium,low,6,namesilo,,,18/09/2026 08:29
 c78ddc07-57e1-4f63-a44c-be83dc5c8e4d,enjoyed.garden,available,1.98,43.98,medium,low,7,namecheap,,,25/09/2026 20:42
 4b2f6610-ac17-4566-b58d-dfd3de7332e3,skywards.garden,available,1.98,43.98,medium,low,8,namecheap,,,10/09/2026 09:51
 e4dea51d-2d3b-4757-8f4a-eb1d20682a23,subdued.garden,available,1.98,43.98,medium,low,7,namecheap,,,14/08/2026 07:54
@@ -918,7 +935,7 @@ f7db690d-4d88-456a-9864-7c1769aeebc6,poached.garden,available,1.98,43.98,high,lo
 648eead3-6b62-4d27-a4ca-ae31fb78f4b9,essence.garden,premium,96,29.5,high,low,7,namesilo,,,25/09/2026 03:33
 28b596c9-cb81-4ff4-8ec4-1b688fe829ee,tamanoir.garden,available,1.98,43.98,medium,low,8,namecheap,,,19/09/2026 12:16
 bddd5d39-8567-42c7-b4d0-eb6c70efb974,abstracted.garden,available,1.98,43.98,medium,low,10,namecheap,,,
-b5aa798d-5436-4b44-98cf-e88edf0f530f,parted.garden,available,1.98,43.98,high,low,6,namecheap,,,08/09/2026 01:57
+b5aa798d-5436-4b44-98cf-e88edf0f530f,parted.garden,available,1.98,43.98,medium,low,6,namecheap,,,08/09/2026 01:57
 51bb8782-0ea7-4dbe-9201-a96d09fbd76f,reasoned.garden,available,1.98,43.98,high,low,8,namecheap,,,09/09/2026 11:08
 babc9f33-f26e-4bff-b33b-52737fd53fc5,korean.garden,premium,96,29.5,high,low,6,namesilo,,,22/08/2026 17:02
 fa49ac79-f3f4-4424-b16c-29ebd04d7da0,ambivalent.garden,available,1.98,43.98,medium,low,10,namecheap,,,
@@ -931,6 +948,7 @@ fa49ac79-f3f4-4424-b16c-29ebd04d7da0,ambivalent.garden,available,1.98,43.98,medi
 8677e11b-941d-410a-9e27-87d307993f03,onset.garden,available,1.98,43.98,high,low,5,namecheap,,,04/09/2026 14:29
 27e303ad-562c-4372-b75f-7b11a75b1ee0,beeper.garden,available,2.19,32.49,high,low,6,namesilo,,,23/09/2026 01:31
 735a9a34-cce5-49df-884d-282ff81bdf07,wikimedia.garden,available,,,high,high,9,,,,
+18f56f9c-5efb-487f-bb3c-85e936641504,whitaker.garden,available,2.49,26.97,high,low,8,dynadot,,,27/09/2026 20:44
 1efbabe5-55e5-4ca2-b985-837136fd56f9,reached.garden,available,1.98,43.98,medium,low,7,namecheap,,,17/09/2026 19:16
 65f0ac93-04e6-498c-a5a8-7f02480cfd2e,metabolic.garden,available,1.98,43.98,high,low,9,namecheap,,,24/08/2026 21:26
 5fdfd5f4-bcc3-4c29-b5f9-802b269aae13,dissembler.garden,available,1.98,43.98,medium,low,10,namecheap,,,08/09/2026 19:10
@@ -944,9 +962,9 @@ b93c2fa4-c703-4b95-b975-2221fa8365ba,beads.garden,premium,854,29.5,high,low,5,na
 5d1b11c9-c847-416c-95c2-0bad168d34b1,overblown.garden,available,1.98,43.98,medium,low,9,namecheap,,,04/09/2026 20:19
 e37451e1-a34b-48ad-9d7d-47b7b2bc375c,season.garden,premium,2500,,high,low,6,name.com,,,
 9f79f06f-328b-4a10-b71f-2eb8f6c1adfd,illogical.garden,available,1.98,43.98,medium,low,9,namecheap,,,14/08/2026 11:22
-c21edc99-22eb-4cbf-bb54-41d8fa7292d1,quarter.garden,available,1.99,,high,low,7,name.com,,,
+c21edc99-22eb-4cbf-bb54-41d8fa7292d1,quarter.garden,available,2.49,26.97,high,low,7,dynadot,,,28/09/2026 00:50
 14ca43cf-f12e-4947-bf6a-61c9888aed59,participle.garden,available,1.98,43.98,medium,low,10,namecheap,,,08/09/2026 02:05
-8064ffc3-8bde-48e5-9eaf-b2ac97578ca8,astragalus.garden,available,2.19,32.49,high,low,10,namesilo,,,19/09/2026 09:45
+8064ffc3-8bde-48e5-9eaf-b2ac97578ca8,astragalus.garden,available,2.19,32.49,medium,low,10,namesilo,,,19/09/2026 09:45
 aa640986-4468-42c1-917b-4f76fbbebc7a,remained.garden,available,2.19,32.49,medium,low,8,namesilo,,,18/09/2026 11:23
 292e3236-f13a-448b-ab1f-6018b5d0115f,girlish.garden,available,1.98,43.98,high,low,7,namecheap,,,18/08/2026 23:59
 bd6e8c5e-b213-4804-a42f-bf926605ee91,indulge.garden,available,2.19,32.49,high,low,7,namesilo,,,21/09/2026 13:04
@@ -972,6 +990,7 @@ affa3050-233a-49b0-a62d-5b3d87cdf4ce,showering.garden,available,1.99,,high,low,9
 a37eb518-b015-403a-a423-3d6d4603d4ed,prevent.garden,available,1.99,,high,low,7,name.com,,,
 e886d144-db5a-415a-8aa3-8d9fb4bf4604,amenia.garden,available,1.98,43.98,medium,low,6,namecheap,,,18/09/2026 18:47
 e09cfd3b-6a79-451c-a3b3-32c48dc0ab96,approx.garden,available,2.19,32.49,medium,low,6,namesilo,,,27/09/2026 02:29
+ec45b6b3-d539-4835-9a61-af47760383ab,maui.garden,available,1.99,49.99,high,low,4,godaddy,,,28/09/2026 02:23
 8d26e0fe-7a8a-4e6b-8af4-f08fa41fa508,necessity.garden,available,2.19,32.49,high,low,9,namesilo,,,24/09/2026 15:20
 aa2aa8e4-4351-4413-8b98-345b7b45145b,nevermore.garden,available,1.98,43.98,medium,low,9,namecheap,,,15/09/2026 16:30
 fc78ab65-56d0-4b3d-968d-631a2a98eb02,exobiology.garden,available,2.19,32.49,medium,low,10,namesilo,,,20/09/2026 17:35
@@ -980,22 +999,3 @@ fab5457f-a86f-407f-9031-564d00e3a941,acetabulum.garden,available,2.19,32.49,medi
 85a9e49c-86ba-49f5-ade7-3570f0eb7be3,unranked.garden,available,1.98,43.98,medium,low,8,namecheap,,,12/09/2026 17:44
 b36bd386-d227-4e89-acfa-327bd0c08076,bearish.garden,available,1.98,43.98,medium,low,7,namecheap,,,09/08/2026 04:48
 3350c1cf-cfe8-446c-b34c-07b0b357e667,jefferson.garden,available,2.19,32.49,high,low,9,namesilo,,,25/09/2026 23:16
-5d720225-a830-453d-a497-18cda3704cb2,clannish.garden,available,1.98,43.98,medium,low,8,namecheap,,,12/08/2026 09:35
-0f65d33c-5a2a-417a-92f8-2385650351af,bevy.garden,available,2.19,32.49,medium,low,4,namesilo,,,23/09/2026 12:05
-7db92792-8088-4d66-a5dc-166117b6e47b,sofa.garden,premium,1040,32.5,high,low,4,namecheap,,,24/09/2026 18:34
-ac9ba485-fe20-4825-a49b-522de3488397,caper.garden,available,2.19,32.49,high,low,5,namesilo,,,22/09/2026 06:32
-f2117a71-0131-4a8c-9aad-c3252920988d,ready.garden,premium,96,29.5,high,low,5,namesilo,,,27/09/2026 10:01
-9e169890-e0ad-40bb-854e-105bcf3f7e52,xcv.garden,available,1.98,43.98,medium,low,3,namecheap,,,
-9277a921-c784-426a-a81b-612d0cfa40c3,drycleaning.garden,available,2.19,32.49,high,low,11,namesilo,,,21/09/2026 04:39
-06b70679-adc5-4d02-8163-71381eabf72b,briefly.garden,available,1.99,,high,low,7,name.com,,,
-dd177dea-34a7-4229-ad5f-fdd3da43fe9a,jerk.garden,available,1.98,43.98,high,low,4,namecheap,,,25/09/2026 11:41
-d1193b70-efd4-4e10-97e4-5a31e7257128,universally.garden,available,1.99,,high,low,11,name.com,,,
-0e30e8fe-a3de-4d0b-9b58-f27d64702a3d,beckley.garden,available,2.19,32.49,medium,low,7,namesilo,,,22/09/2026 22:43
-82ac97c5-5724-4568-9b72-5511b1feadea,mistreat.garden,available,1.98,43.98,medium,low,8,namecheap,,,16/09/2026 19:06
-a906525a-508a-45e2-8643-217eb2cbf9df,dissolved.garden,available,1.98,43.98,medium,low,9,namecheap,,,14/08/2026 12:56
-e77dda75-d733-4b60-9b6a-166d33f1f734,dextral.garden,available,1.98,43.98,medium,low,7,namecheap,,,14/08/2026 05:28
-8466cfe0-e0ee-45bf-95ba-9e40c04115d1,imprecise.garden,available,1.98,43.98,medium,low,9,namecheap,,,21/08/2026 23:00
-7bb783d3-df8d-48c2-a6e3-06c22e1f1736,arbitrage.garden,available,2.19,32.49,high,low,9,namesilo,,,20/09/2026 00:42
-46b6bf48-23ee-47dc-9d67-0fde9103e9bc,nab.garden,premium,104,32.5,high,medium,3,namecheap,,,20/09/2026 09:04
-d115483e-66ea-465b-831e-7cca8d3e0f95,dissenter.garden,available,1.98,43.98,medium,low,9,namecheap,,,14/08/2026 12:39
-7ac7dfef-2861-4e2b-9f13-4598ab36d85d,gushy.garden,available,1.98,43.98,medium,low,5,namecheap,,,20/08/2026 21:03

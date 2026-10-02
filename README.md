@@ -1,10 +1,10 @@
-# Available .GARDEN One-Word Domains (29,719)
+# Available .GARDEN One-Word Domains (31,277)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-29%2C719%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C277%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .garden one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **29,719 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **31,277 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 29,719 domains · **Median ask:** $47.64 · **High-demand under $2,500:** 47
+**Public extract:** 1,000 rows · **Live catalog:** 31,277 domains · **Median ask:** $46.83 · **High-demand under $2,500:** 47
 
-**Last updated:** 2026-10-01
+**Last updated:** 2026-10-02
 **Canonical page:** `https://unique.domains/domains/tld/garden`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| amd.garden    | available | $2.19     | $32.49        | high           | low    | 3      | namesilo         |
+| acf.garden    | available | $1.54     | $26.26        | high           | low    | 3      | porkbun          |
 | star.garden   | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.  |
 | aar.garden    | premium   | $47.20    | $29.50        | medium         | low    | 3      | namesilo         |
-| atc.garden    | available | $2.19     | $32.49        | high           | low    | 3      | namesilo         |
+| amd.garden    | available | $2.19     | $32.49        | high           | low    | 3      | namesilo         |
 | native.garden | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC |
 | ant.garden    | premium   | $2,600    | $32.50        | high           | medium | 3      | namecheap        |
-| cic.garden    | available | $2.49     | $26.97        | high           | low    | 3      | dynadot          |
+| atc.garden    | available | $2.19     | $32.49        | high           | low    | 3      | namesilo         |
 | ass.garden    | premium   | $500      | $46.99        | high           | low    | 3      | name.com         |
-| cmc.garden    | available | $1.24     | $26.08        | high           | low    | 3      | spaceship        |
-| bea.garden    | premium   | $44.19    | $27.82        | high           | low    | 3      | porkbun          |
-| csx.garden    | available | $1.98     | $43.98        | medium         | low    | 3      | namecheap        |
+| cac.garden    | available | $26.97    | $26.97        | high           | low    | 3      | dynadot          |
 | cos.garden    | premium   | $520      | $32.50        | high           | medium | 3      | namecheap        |
-| gao.garden    | available | $1.98     | $43.98        | medium         | low    | 3      | namecheap        |
+| cic.garden    | available | $2.49     | $26.97        | high           | low    | 3      | dynadot          |
 | cue.garden    | premium   | $500      | —             | high           | medium | 3      | name.com         |
-| ias.garden    | available | $1.98     | $43.98        | high           | low    | 3      | namecheap        |
+| cmc.garden    | available | $1.24     | $26.08        | high           | low    | 3      | spaceship        |
 | fat.garden    | premium   | $96       | $29.50        | high           | low    | 3      | namesilo         |
-| kol.garden    | available | $25.20    | $25.20        | high           | low    | 3      | cloudflare       |
+| gao.garden    | available | $1.98     | $43.98        | medium         | low    | 3      | namecheap        |
 | ire.garden    | premium   | $47.20    | $29.50        | medium         | low    | 3      | namesilo         |
-| lui.garden    | available | $2.19     | $32.49        | medium         | low    | 3      | namesilo         |
+| ias.garden    | available | $1.98     | $43.98        | high           | low    | 3      | namecheap        |
 | ltd.garden    | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo         |
+| kol.garden    | available | $25.20    | $25.20        | high           | low    | 3      | cloudflare       |
+| mak.garden    | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 29,719 live domains                        |
+| 1,000-row public sample | 31,277 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 47 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GARDEN One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GARDEN One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
